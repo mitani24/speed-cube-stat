@@ -1,1 +1,2886 @@
-[{"time":"10.72","ms":10720,"details":"B U2 F L2 F' D2 F D2 F' R2 F D2 R2 L2 F' (Na-perm, AUF = noAuf, block on BL)","index":0,"pll":"Na"},{"time":"6.77","ms":6770,"details":"R2 F2 U' R2 U' R2 U F' U F' R2 F U' F' (Gd-perm, AUF = U, block on LF)","index":1,"pll":"Gd"},{"time":"9.41","ms":9410,"details":"R2 D' L2 D' F' B D2 R2 F' U' F U2 B' U F (Y-perm, AUF = U', block on RB)","index":2,"pll":"Y"},{"time":"5.89","ms":5890,"details":"L F U' B' U F U' B U F2 L' (Aa-perm, AUF = noAuf, block on FR)","index":3,"pll":"Aa"},{"time":"8.80","ms":8800,"details":"R U' R2 D L B2 L2 D L' D R F2 D' L2 D2 (Na-perm, AUF = noAuf, block on FR)","index":4,"pll":"Na"},{"time":"7.26","ms":7260,"details":"B' F' U2 F2 R2 B2 F' L' B R2 B' L B' (Ab-perm, AUF = U2, block on LF)","index":5,"pll":"Ab"},{"time":"5.41","ms":5410,"details":"D' B2 R2 B' L' B R2 B' L B' U D (Ab-perm, AUF = U', block on BL)","index":6,"pll":"Ab"},{"time":"6.05","ms":6050,"details":"L2 D F2 R2 U' D2 B2 U' B2 L2 D' B2 R2 D2 (Ab-perm, AUF = U2, block on BL)","index":7,"pll":"Ab"},{"time":"4.21","ms":4210,"details":"L' U L' B2 R D R L' F2 L D R2 B2 L2 (Jb-perm, AUF = noAuf, block on BL)","index":8,"pll":"Jb"},{"time":"5.70","ms":5700,"details":"L2 U2 B2 D' R2 D' F2 D B2 U2 B2 R2 D B2 (F-perm, AUF = U, block on FR)","index":9,"pll":"F"},{"time":"6.01","ms":6010,"details":"B2 L' B' L2 U L2 B L B R B R' B U B' (Rb-perm, AUF = U', block on BL)","index":10,"pll":"Rb"},{"time":"5.56","ms":5560,"details":"B2 R2 L2 F2 D2 B D' B R2 L2 F' U F' (Ua-perm, AUF = U2, block on LF)","index":11,"pll":"Ua"},{"time":"8.04","ms":8040,"details":"F2 U D' L2 B2 R2 U' R2 U R2 U' B2 D L2 (Ja-perm, AUF = U', block on RB)","index":12,"pll":"Ja"},{"time":"7.87","ms":7870,"details":"F U2 D' B L2 F' L2 B' U D F2 D' F' D F2 (Na-perm, AUF = U', block on FR)","index":13,"pll":"Na"},{"time":"6.62","ms":6620,"details":"F2 B L2 D F L2 B' U' L2 F' B2 D B2 L2 F2 (Gd-perm, AUF = U', block on RB)","index":14,"pll":"Gd"},{"time":"4.89","ms":4890,"details":"R' F2 R2 B2 L' D2 R D' L2 D L' F2 R' B2 R' (Y-perm, AUF = U', block on FR)","index":15,"pll":"Y"},{"time":"8.03","ms":8030,"details":"L2 D L U L' F2 L U' R' D2 B2 L' R D L2 (Ga-perm, AUF = U2, block on RB)","index":16,"pll":"Ga"},{"time":"6.15","ms":6150,"details":"D' L2 F2 U F2 D' L2 U' D2 F2 U' F2 (Jb-perm, AUF = U2, block on BL)","index":17,"pll":"Jb"},{"time":"9.25","ms":9250,"details":"R2 D' F2 D2 L2 U L2 U' D2 F2 R2 U2 R2 D R2 (E-perm, AUF = U2, block on LF)","index":18,"pll":"E"},{"time":"6.42","ms":6420,"details":"R B2 R' U R2 F2 L' D L F2 R2 U' L U' L' (V-perm, AUF = U, block on RB)","index":19,"pll":"V"},{"time":"7.11","ms":7110,"details":"B2 U2 R2 U' F B' R2 F' B' U2 R2 U' B2 U2 R2 (Nb-perm, AUF = U', block on RB)","index":20,"pll":"Nb"},{"time":"6.90","ms":6900,"details":"F' U2 B' F2 D R' D' B U R U' R2 F' R (Ja-perm, AUF = U2, block on LF)","index":21,"pll":"Ja"},{"time":"7.71","ms":7710,"details":"R' U2 R U' R' F2 U' L' U L F2 U' R (Z-perm, AUF = noAuf, block on LF)","index":22,"pll":"Z"},{"time":"5.59","ms":5590,"details":"B F' L2 D F U L2 U' F' D' B' L2 F (Ub-perm, AUF = U2, block on FR)","index":23,"pll":"Ub"},{"time":"6.55","ms":6550,"details":"L2 U' F2 U2 F D2 L B' R2 B L' D2 F U L2 (Gc-perm, AUF = noAuf, block on RB)","index":24,"pll":"Gc"},{"time":"4.42","ms":4420,"details":"B2 F2 D B F' R2 B' F D B2 F2 (Ub-perm, AUF = noAuf, block on LF)","index":25,"pll":"Ub"},{"time":"8.15","ms":8150,"details":"D' F' U' F2 D B R2 B2 D' F' D B' U2 B2 (Jb-perm, AUF = noAuf, block on FR)","index":26,"pll":"Jb"},{"time":"7.38","ms":7380,"details":"R2 U2 B2 D B2 D' R2 U B2 U2 B2 R2 U R2 (F-perm, AUF = U', block on LF)","index":27,"pll":"F"},{"time":"5.84","ms":5840,"details":"F2 R2 U R2 D R2 U' R D' R F2 L' U L (Gb-perm, AUF = U', block on FR)","index":28,"pll":"Gb"},{"time":"6.84","ms":6840,"details":"B' L' B' R B L R' U R' F R' F' R2 U2 B (E-perm, AUF = U, block on FR)","index":29,"pll":"E"},{"time":"6.89","ms":6890,"details":"L2 F2 B2 D' L D L' F2 R U' R' U B2 L2 (Ga-perm, AUF = noAuf, block on BL)","index":30,"pll":"Ga"},{"time":"4.23","ms":4230,"details":"R2 U2 R2 U D B2 U F2 D2 B2 D2 F2 D' (H-perm, AUF = noAuf, block on BL)","index":31,"pll":"H"},{"time":"4.64","ms":4640,"details":"R' U' R U R B' R2 U R U' B L U' L' (T-perm, AUF = U2, block on FR)","index":32,"pll":"T"},{"time":"6.17","ms":6170,"details":"L2 B2 U R2 B2 U B2 R2 F2 R2 D F2 D' B2 D (Gb-perm, AUF = U, block on FR)","index":33,"pll":"Gb"},{"time":"6.11","ms":6110,"details":"D' L2 F2 L B L' F2 L B' L U2 D (Aa-perm, AUF = U2, block on LF)","index":34,"pll":"Aa"},{"time":"6.41","ms":6410,"details":"R2 U' F2 D' L2 U' F2 D2 F2 U B2 D' L2 F2 (Ja-perm, AUF = U2, block on LF)","index":35,"pll":"Ja"},{"time":"5.33","ms":5330,"details":"B' D2 F U' F' U2 L2 D' B' D L2 U' D2 B (F-perm, AUF = noAuf, block on LF)","index":36,"pll":"F"},{"time":"7.98","ms":7980,"details":"R2 U B2 D' L2 D B2 R2 U' F2 U R2 U' R2 (E-perm, AUF = noAuf, block on BL)","index":37,"pll":"E"},{"time":"5.45","ms":5450,"details":"R' L' U2 R' D' R U2 R' D R2 L (Ab-perm, AUF = noAuf, block on BL)","index":38,"pll":"Ab"},{"time":"6.01","ms":6010,"details":"F2 U L2 U' L2 F2 U' F2 D F2 U2 D' (Ab-perm, AUF = U', block on FR)","index":39,"pll":"Ab"},{"time":"7.11","ms":7110,"details":"D L2 F2 R2 U F L2 D' B' L2 F U L2 B' (Gb-perm, AUF = noAuf, block on LF)","index":40,"pll":"Gb"},{"time":"5.73","ms":5730,"details":"R2 U F2 U F2 U' B D' B L2 B' D B' R2 F2 (Gb-perm, AUF = U', block on BL)","index":41,"pll":"Gb"},{"time":"8.08","ms":8080,"details":"F' U2 R U2 D2 F U F' D2 L' U R' U' L F (E-perm, AUF = U', block on BL)","index":42,"pll":"E"},{"time":"9.66","ms":9660,"details":"R L F L' B L F' R' L' F R B' R' F' (E-perm, AUF = noAuf, block on BL)","index":43,"pll":"E"},{"time":"6.75","ms":6750,"details":"F2 D2 F2 L2 U B2 L2 U2 F2 R2 D' F2 L2 U2 L2 (Nb-perm, AUF = U, block on BL)","index":44,"pll":"Nb"},{"time":"5.37","ms":5370,"details":"B2 D F D F' D' F' D' R2 F' D F R2 B2 (Jb-perm, AUF = U, block on BL)","index":45,"pll":"Jb"},{"time":"4.81","ms":4810,"details":"L2 B2 D' R2 D B2 L2 F2 D R2 U' R2 D' (Ub-perm, AUF = U, block on FR)","index":46,"pll":"Ub"},{"time":"6.52","ms":6520,"details":"F2 L2 D' B2 D' R2 B2 D L2 U L2 D L2 (Ub-perm, AUF = U, block on RB)","index":47,"pll":"Ub"},{"time":"7.28","ms":7280,"details":"F2 L' F R' F' L2 F R F' L' F2 (Ab-perm, AUF = noAuf, block on LF)","index":48,"pll":"Ab"},{"time":"7.06","ms":7060,"details":"L' U2 L B' L' U' B2 U L' B2 L U' B2 L B (Rb-perm, AUF = U2, block on LF)","index":49,"pll":"Rb"},{"time":"8.16","ms":8160,"details":"B U F' U' L2 F L2 F' U F U' F B' U2 F' (Ra-perm, AUF = U, block on BL)","index":50,"pll":"Ra"},{"time":"6.89","ms":6890,"details":"L2 U2 B2 D' B2 U' B' D' F U2 F' D B' D B2 (Ga-perm, AUF = U', block on FR)","index":51,"pll":"Ga"},{"time":"6.09","ms":6090,"details":"B2 U L2 U L2 U' L2 U L2 U2 B2 U' L2 U' L2 (Rb-perm, AUF = U, block on LF)","index":52,"pll":"Rb"},{"time":"7.21","ms":7210,"details":"B2 D F2 U2 D' L2 B D F' D2 B D' F' U' D2 (Ga-perm, AUF = U, block on LF)","index":53,"pll":"Ga"},{"time":"7.90","ms":7900,"details":"R L U2 R' L' D2 F' U B' U2 F U' B D2 (Gb-perm, AUF = U2, block on LF)","index":54,"pll":"Gb"},{"time":"6.68","ms":6680,"details":"D' B2 U' B2 U2 D L2 U B U B' L2 B U' B' (Y-perm, AUF = U, block on BL)","index":55,"pll":"Y"},{"time":"7.92","ms":7920,"details":"D R2 B2 R F R' B2 R F' R U' D' (Aa-perm, AUF = U, block on FR)","index":56,"pll":"Aa"},{"time":"4.53","ms":4530,"details":"L2 F D' B' U D' R2 U' D B' D F' L2 (Ua-perm, AUF = noAuf, block on RB)","index":57,"pll":"Ua"},{"time":"6.52","ms":6520,"details":"R2 D B2 L2 D2 R2 D R2 D L2 U2 B2 D' R2 (Na-perm, AUF = U', block on LF)","index":58,"pll":"Na"},{"time":"12.57","ms":12570,"details":"B F' R U2 D2 R' U2 D2 R B' F D2 (Z-perm, AUF = U, block on LF)","index":59,"pll":"Z"},{"time":"6.31","ms":6310,"details":"F2 R2 U' B2 F D' F D B2 F' U R2 F U' F (F-perm, AUF = U, block on LF)","index":60,"pll":"F"},{"time":"7.44","ms":7440,"details":"L2 R2 B F' L B2 F2 R' U2 D2 R' B F' (Z-perm, AUF = U, block on FR)","index":61,"pll":"Z"},{"time":"5.57","ms":5570,"details":"R L' B2 R L B2 R2 U B' F' U2 B F (H-perm, AUF = U', block on LF)","index":62,"pll":"H"},{"time":"5.16","ms":5160,"details":"F2 L2 R2 B2 D2 L2 R2 U' L2 R2 D' L2 R2 (Z-perm, AUF = noAuf, block on RB)","index":63,"pll":"Z"},{"time":"6.06","ms":6060,"details":"F' L' F R' U2 L U L' U2 R U' F' L F (Jb-perm, AUF = U, block on LF)","index":64,"pll":"Jb"},{"time":"10.19","ms":10190,"details":"D2 F R' F L2 F' R F L2 F2 U D2 (Aa-perm, AUF = U', block on FR)","index":65,"pll":"Aa"},{"time":"7.18","ms":7180,"details":"R2 U F2 U F2 U' B D' B L2 B' D B' R2 F2 (Gb-perm, AUF = U', block on BL)","index":66,"pll":"Gb"},{"time":"6.93","ms":6930,"details":"R U2 R2 D R2 U2 L' B2 R L D' R2 (Ub-perm, AUF = U2, block on LF)","index":67,"pll":"Ub"},{"time":"5.18","ms":5180,"details":"R2 F2 R2 L' U L' B2 R D' L B2 R' L (F-perm, AUF = U', block on BL)","index":68,"pll":"F"},{"time":"6.63","ms":6630,"details":"L2 U2 L F' L B2 L' F L B2 U' L2 U' L2 (Gb-perm, AUF = U2, block on RB)","index":69,"pll":"Gb"},{"time":"4.88","ms":4880,"details":"R' B' U D' R U2 R' U' D B U2 R (Ub-perm, AUF = noAuf, block on LF)","index":70,"pll":"Ub"},{"time":"4.74","ms":4740,"details":"F B' U F' L2 D2 R2 B' D2 L2 U F' B (Ua-perm, AUF = noAuf, block on RB)","index":71,"pll":"Ua"},{"time":"6.91","ms":6910,"details":"L' U F' U' L2 D2 R' B' R D2 L' U F (Ra-perm, AUF = U', block on BL)","index":72,"pll":"Ra"},{"time":"3.15","ms":3150,"details":"F2 R D' L' U D' B2 U' D L' D R' F2 (Ua-perm, AUF = noAuf, block on BL)","index":73,"pll":"Ua"},{"time":"6.48","ms":6480,"details":"F2 D B2 L2 U B2 U2 R2 U' B2 U' L2 U' B2 D' (Ga-perm, AUF = U2, block on BL)","index":74,"pll":"Ga"},{"time":"6.24","ms":6240,"details":"F' U B' U2 F U' B U L R U2 L' R' (Ga-perm, AUF = U', block on FR)","index":75,"pll":"Ga"},{"time":"4.53","ms":4530,"details":"B' U' B2 L' D L' D' F' L' F L' B' (Ua-perm, AUF = U', block on BL)","index":76,"pll":"Ua"},{"time":"5.61","ms":5610,"details":"B U F B' R U' R' B U' B' R U R' F' (T-perm, AUF = U', block on BL)","index":77,"pll":"T"},{"time":"6.13","ms":6130,"details":"F2 R2 F2 U R' U L' F2 D2 L' B2 D2 F2 U' L (Ra-perm, AUF = U2, block on LF)","index":78,"pll":"Ra"},{"time":"4.14","ms":4140,"details":"F2 U R L U2 R' L F2 L2 U' F2 (Ub-perm, AUF = noAuf, block on BL)","index":79,"pll":"Ub"},{"time":"5.62","ms":5620,"details":"B2 U D2 F2 U R2 U D2 B2 D F2 L2 D' (Aa-perm, AUF = U, block on LF)","index":80,"pll":"Aa"},{"time":"6.88","ms":6880,"details":"F2 R' B' R B F' R B' F' R B R' (Z-perm, AUF = U', block on FR)","index":81,"pll":"Z"},{"time":"6.34","ms":6340,"details":"D R' F' R B2 R' F R' D2 F2 U L2 D F2 R2 (Gc-perm, AUF = U, block on RB)","index":82,"pll":"Gc"},{"time":"5.75","ms":5750,"details":"F' U' F R2 U R2 D' F' U F D R2 U' R2 (T-perm, AUF = U, block on BL)","index":83,"pll":"T"},{"time":"5.92","ms":5920,"details":"F2 R U2 R2 F2 L D2 L2 D2 F2 R U2 F2 L2 (Na-perm, AUF = U2, block on BL)","index":84,"pll":"Na"},{"time":"9.00","ms":9000,"details":"L2 U2 F2 U F' B D2 R2 F B U' R2 U2 B2 D2 (Nb-perm, AUF = U, block on RB)","index":85,"pll":"Nb"},{"time":"4.90","ms":4900,"details":"R2 D2 L D L2 D' L' D' R' B2 R D' R2 (Ua-perm, AUF = noAuf, block on FR)","index":86,"pll":"Ua"},{"time":"8.67","ms":8670,"details":"F U F R2 L2 B' D' B' D2 B2 R2 L2 F2 (Ua-perm, AUF = U2, block on LF)","index":87,"pll":"Ua"},{"time":"6.91","ms":6910,"details":"D L2 U' F2 U F2 L2 U L2 D' L2 (Aa-perm, AUF = U', block on FR)","index":88,"pll":"Aa"},{"time":"6.63","ms":6630,"details":"F B D2 F' U' F D2 F' U B' (Ab-perm, AUF = noAuf, block on RB)","index":89,"pll":"Ab"},{"time":"6.89","ms":6890,"details":"F U F R2 L2 B' D' B' D2 B2 R2 L2 F2 (Ua-perm, AUF = U2, block on LF)","index":90,"pll":"Ua"},{"time":"4.71","ms":4710,"details":"F U' B' R2 F' U2 L2 F' D B' D' B D2 L2 F (F-perm, AUF = U, block on FR)","index":91,"pll":"F"},{"time":"5.07","ms":5070,"details":"B2 L2 R2 F2 D2 L2 R2 U L2 R2 D L2 R2 (Z-perm, AUF = noAuf, block on FR)","index":92,"pll":"Z"},{"time":"4.60","ms":4600,"details":"F2 B2 R' L' D2 R L F' B' U2 F' B' (H-perm, AUF = noAuf, block on BL)","index":93,"pll":"H"},{"time":"7.59","ms":7590,"details":"B2 F R2 D B R2 F' U' R2 B' F2 D F2 R2 B2 (Gd-perm, AUF = U', block on LF)","index":94,"pll":"Gd"},{"time":"6.02","ms":6020,"details":"F2 U2 R2 D2 B2 D' R2 U' R2 B2 D' R2 U F2 (Ab-perm, AUF = U2, block on BL)","index":95,"pll":"Ab"},{"time":"4.74","ms":4740,"details":"R2 B2 R2 U' R' D L D L2 D' L' D' R (H-perm, AUF = U', block on BL)","index":96,"pll":"H"},{"time":"4.80","ms":4800,"details":"B U B' R' U F' U' F2 R F' U' F' U F (T-perm, AUF = U2, block on RB)","index":97,"pll":"T"},{"time":"6.10","ms":6100,"details":"R B R' F2 R B' R' U2 F2 D' L2 U' L2 D (Y-perm, AUF = U2, block on LF)","index":98,"pll":"Y"},{"time":"6.00","ms":6000,"details":"D' R2 U' B2 D2 L2 D F2 D' L2 F2 U2 F2 D' B2 (V-perm, AUF = U2, block on FR)","index":99,"pll":"V"},{"time":"6.24","ms":6240,"details":"B L2 B2 F2 D' F' R2 B U R2 F' U' B2 L2 B2 (Gd-perm, AUF = U', block on LF)","index":100,"pll":"Gd"},{"time":"5.85","ms":5850,"details":"R2 U B2 U B2 U R2 D B2 U2 D' B2 (Ub-perm, AUF = U, block on FR)","index":101,"pll":"Ub"},{"time":"38.17","ms":38170,"details":"F2 U F2 D' L2 U' B2 U' L2 U L2 D' B2 D2 L2 (Na-perm, AUF = U', block on RB)","index":102,"pll":"Na"},{"time":"8.13","ms":8130,"details":"R2 U' D2 F2 D2 R2 D' R2 U F2 R2 U2 R2 D R2 (E-perm, AUF = U2, block on LF)","index":103,"pll":"E"},{"time":"7.87","ms":7870,"details":"L2 U2 L2 U2 L2 U L2 U2 L2 U2 L2 (H-perm, AUF = U', block on FR)","index":104,"pll":"H"},{"time":"5.67","ms":5670,"details":"R' F' U' F2 R' F' R' B' D B' D' B2 R' (Ua-perm, AUF = U', block on FR)","index":105,"pll":"Ua"},{"time":"8.33","ms":8330,"details":"R U' L D2 L' U R' L U' R D2 R' U L' (E-perm, AUF = noAuf, block on LF)","index":106,"pll":"E"},{"time":"6.70","ms":6700,"details":"D F R' F L2 F' R F L2 F2 U2 D' (Aa-perm, AUF = U2, block on LF)","index":107,"pll":"Aa"},{"time":"6.68","ms":6680,"details":"L2 U' F D' B U2 B' D F D R2 D' F2 U2 L2 (Gb-perm, AUF = U', block on FR)","index":108,"pll":"Gb"},{"time":"7.94","ms":7940,"details":"F B' R' F L2 F B2 L' F2 B2 R B D2 F' (Z-perm, AUF = U, block on RB)","index":109,"pll":"Z"},{"time":"6.33","ms":6330,"details":"D2 R2 U' B2 U B2 R2 U2 D' F2 D' F2 (Aa-perm, AUF = U2, block on RB)","index":110,"pll":"Aa"},{"time":"6.19","ms":6190,"details":"R2 D' F D F' R2 U' F2 U B U' B' U' F2 (Jb-perm, AUF = U, block on FR)","index":111,"pll":"Jb"},{"time":"5.09","ms":5090,"details":"B2 R B' D2 B' U' B D2 B R' B2 U' R U2 R' (Y-perm, AUF = U', block on LF)","index":112,"pll":"Y"},{"time":"12.24","ms":12240,"details":"L R U2 L' U L U2 D2 R' U2 R D2 R' U L' (Ga-perm, AUF = U2, block on RB)","index":113,"pll":"Ga"},{"time":"6.28","ms":6280,"details":"L2 U' L2 U' L' D R' D' F2 L2 F2 D R D' L' (Y-perm, AUF = U, block on LF)","index":114,"pll":"Y"},{"time":"5.50","ms":5500,"details":"L2 U2 L2 F2 U B F L2 B' F' L2 U L2 U2 F2 (V-perm, AUF = U, block on LF)","index":115,"pll":"V"},{"time":"37.69","ms":37690,"details":"F U L F' U F2 U' F' L' U' F' U2 L' U L (Gd-perm, AUF = U', block on RB)","index":116,"pll":"Gd"},{"time":"4.72","ms":4720,"details":"R2 U' R2 F2 B D' B L2 B' D F2 B' U R2 (T-perm, AUF = U', block on BL)","index":117,"pll":"T"},{"time":"7.68","ms":7680,"details":"R U B2 R2 F R F' R2 B2 R' U B U B' R' (Rb-perm, AUF = U2, block on LF)","index":118,"pll":"Rb"},{"time":"4.51","ms":4510,"details":"R2 U D L2 D' B2 D' F2 B2 U' R2 D L2 U2 B2 (Y-perm, AUF = U, block on RB)","index":119,"pll":"Y"},{"time":"7.58","ms":7580,"details":"R' F' R B' U2 F U F' U2 B U' R' F R (Jb-perm, AUF = U, block on FR)","index":120,"pll":"Jb"},{"time":"5.55","ms":5550,"details":"D L' B L' F2 L B' L' F2 L2 U D' (Ab-perm, AUF = U', block on FR)","index":121,"pll":"Ab"},{"time":"6.10","ms":6100,"details":"B2 U B2 U2 L2 U' B2 R2 U L2 D' F2 U2 R2 D (Rb-perm, AUF = noAuf, block on LF)","index":122,"pll":"Rb"},{"time":"7.77","ms":7770,"details":"L B U2 D' R' B R U D L' U L U B' L2 (Ga-perm, AUF = U', block on FR)","index":123,"pll":"Ga"},{"time":"6.78","ms":6780,"details":"L R U2 D2 R D L' B2 L D' R' D2 L' R' (Ga-perm, AUF = U2, block on FR)","index":124,"pll":"Ga"},{"time":"6.24","ms":6240,"details":"F' U B' U' F R2 F R2 F' U2 F' U' B U' F (V-perm, AUF = U', block on BL)","index":125,"pll":"V"},{"time":"4.57","ms":4570,"details":"F U' F' U' R U2 R2 U F U' F' U' R2 U' R' (Y-perm, AUF = U, block on RB)","index":126,"pll":"Y"},{"time":"4.48","ms":4480,"details":"R' U L' U2 R U' L F U' B U2 F' U B' (T-perm, AUF = U, block on LF)","index":127,"pll":"T"},{"time":"4.59","ms":4590,"details":"B' R' B L' U2 R U R' U2 L U' B' R B (Jb-perm, AUF = U, block on RB)","index":128,"pll":"Jb"},{"time":"5.89","ms":5890,"details":"L' B2 U L U2 R' U' F2 L2 R' D2 L2 F2 R2 (Gc-perm, AUF = U2, block on FR)","index":129,"pll":"Gc"},{"time":"5.61","ms":5610,"details":"R' U L' D2 L U' R U' R' L' D2 R L (Aa-perm, AUF = U, block on LF)","index":130,"pll":"Aa"},{"time":"5.77","ms":5770,"details":"R U B' D2 F L' F' D2 B2 U' R' U B' (Rb-perm, AUF = U', block on BL)","index":131,"pll":"Rb"},{"time":"6.92","ms":6920,"details":"R' F' L' F R F' B' R' B L B' R F B (E-perm, AUF = noAuf, block on RB)","index":132,"pll":"E"},{"time":"9.14","ms":9140,"details":"L U' L2 F2 D' R B2 R' D F2 L2 U L' (Na-perm, AUF = U, block on RB)","index":133,"pll":"Na"},{"time":"6.92","ms":6920,"details":"B2 D2 F2 D2 B2 U' F' B' R2 F2 R2 F B (H-perm, AUF = U, block on BL)","index":134,"pll":"H"},{"time":"7.51","ms":7510,"details":"B U' B' U2 B2 F D2 B' U' B D2 B2 U F' (Y-perm, AUF = U2, block on FR)","index":135,"pll":"Y"},{"time":"5.86","ms":5860,"details":"R B U' B2 R B2 L' B2 D B' L' D' L2 B2 R2 (Ga-perm, AUF = U, block on FR)","index":136,"pll":"Ga"},{"time":"6.76","ms":6760,"details":"B2 R2 B' U' L F U F' L2 B L R2 B2 (Gb-perm, AUF = noAuf, block on RB)","index":137,"pll":"Gb"},{"time":"5.90","ms":5900,"details":"R D' F' R U F R2 D2 L B' L2 B L D' (Jb-perm, AUF = noAuf, block on RB)","index":138,"pll":"Jb"},{"time":"9.98","ms":9980,"details":"B' U' B U' L' U2 L' F L U2 L' F' L2 (Jb-perm, AUF = U, block on LF)","index":139,"pll":"Jb"},{"time":"8.31","ms":8310,"details":"R2 U' L' D' L F2 L' D L' B2 R2 B2 L2 U R2 (Rb-perm, AUF = U, block on RB)","index":140,"pll":"Rb"},{"time":"9.09","ms":9090,"details":"L U' L2 D R F2 R2 D R' D L B2 D' R2 D2 (Na-perm, AUF = U2, block on RB)","index":141,"pll":"Na"},{"time":"6.01","ms":6010,"details":"B2 D2 L' F2 L2 D R D' L' D2 R2 D' R' D B2 (Rb-perm, AUF = U, block on BL)","index":142,"pll":"Rb"},{"time":"6.40","ms":6400,"details":"L2 R2 U' L R' U2 D2 L R' D B2 F2 D (Z-perm, AUF = U', block on FR)","index":143,"pll":"Z"},{"time":"6.71","ms":6710,"details":"D' F' L F' R2 F L' F' R2 F2 D (Ab-perm, AUF = noAuf, block on BL)","index":144,"pll":"Ab"},{"time":"6.38","ms":6380,"details":"L R U2 D2 R D L' B2 L D' R' D2 L' R' (Ga-perm, AUF = U2, block on FR)","index":145,"pll":"Ga"},{"time":"5.56","ms":5560,"details":"R F2 R2 L2 B2 R' U2 D' F2 R2 L2 B2 D2 (H-perm, AUF = U, block on BL)","index":146,"pll":"H"},{"time":"8.45","ms":8450,"details":"R2 U' R2 D L2 U' B2 R2 D F2 D' R2 U B2 D' (E-perm, AUF = U, block on LF)","index":147,"pll":"E"},{"time":"6.07","ms":6070,"details":"B2 R2 U B2 U' R2 U B2 D' R2 U D (Aa-perm, AUF = U2, block on LF)","index":148,"pll":"Aa"},{"time":"7.56","ms":7560,"details":"R2 B2 F2 R2 D' F' U F' L2 B D' B' R2 F2 D (Rb-perm, AUF = U', block on LF)","index":149,"pll":"Rb"},{"time":"8.43","ms":8430,"details":"B' L B D2 F2 R F D' F U2 F' D R' F D2 (Na-perm, AUF = noAuf, block on BL)","index":150,"pll":"Na"},{"time":"5.50","ms":5500,"details":"D' F2 U2 L2 U R2 U2 F2 D R2 U F2 B2 U R2 (Y-perm, AUF = U2, block on BL)","index":151,"pll":"Y"},{"time":"8.35","ms":8350,"details":"B2 F2 U' R2 L2 D R L' U2 D2 R L' (Z-perm, AUF = noAuf, block on LF)","index":152,"pll":"Z"},{"time":"8.35","ms":8350,"details":"F U F D' R' D F' U' D' F' U F R D F' (E-perm, AUF = U', block on RB)","index":153,"pll":"E"},{"time":"7.03","ms":7030,"details":"R U R2 D' F2 L D R' D2 L D L2 D R2 (Ja-perm, AUF = U2, block on LF)","index":154,"pll":"Ja"},{"time":"5.34","ms":5340,"details":"L U2 L' F L U F2 D' B L2 B' D F2 L' F' (Gb-perm, AUF = U', block on FR)","index":155,"pll":"Gb"},{"time":"5.79","ms":5790,"details":"B' L B2 L' B' L' D F L' U' F' L2 U2 D' (Jb-perm, AUF = U2, block on BL)","index":156,"pll":"Jb"},{"time":"10.54","ms":10540,"details":"R2 U B2 D2 B U F' D2 F U' B U' R2 U' F2 (E-perm, AUF = U, block on BL)","index":157,"pll":"E"},{"time":"5.37","ms":5370,"details":"F' U R' F2 L' U L F2 R2 D R D' R2 U' F (V-perm, AUF = noAuf, block on FR)","index":158,"pll":"V"},{"time":"6.69","ms":6690,"details":"L' B2 L B' U2 R U B U' R' U B2 U B (Ja-perm, AUF = noAuf, block on LF)","index":159,"pll":"Ja"},{"time":"7.23","ms":7230,"details":"F2 U' D' F2 D F B' D2 L2 F' B' U' B2 D2 R2 (Na-perm, AUF = U', block on BL)","index":160,"pll":"Na"},{"time":"6.56","ms":6560,"details":"D L F' L B2 L' F L B2 L2 U2 D' (Aa-perm, AUF = U2, block on BL)","index":161,"pll":"Aa"},{"time":"6.41","ms":6410,"details":"D L' B L' F2 L B' L' F2 L2 U D' (Ab-perm, AUF = U', block on FR)","index":162,"pll":"Ab"},{"time":"5.65","ms":5650,"details":"B' R' F R' F R F2 R B U' F U' F' (Ua-perm, AUF = U2, block on LF)","index":163,"pll":"Ua"},{"time":"11.19","ms":11190,"details":"R2 D' L2 U R2 D' B2 L2 D R2 U' F2 D R2 (E-perm, AUF = noAuf, block on FR)","index":164,"pll":"E"},{"time":"6.22","ms":6220,"details":"D B2 R2 U L2 D' F2 D L2 D' R2 (Aa-perm, AUF = U', block on BL)","index":165,"pll":"Aa"},{"time":"6.50","ms":6500,"details":"L2 F2 U D R2 U2 D B2 R2 U2 R2 U R2 D2 F2 (Na-perm, AUF = U, block on BL)","index":166,"pll":"Na"},{"time":"6.85","ms":6850,"details":"F2 U2 B2 L2 U' R2 F2 L2 B2 D2 L2 D' B2 D2 R2 (V-perm, AUF = U, block on BL)","index":167,"pll":"V"},{"time":"7.41","ms":7410,"details":"F2 U2 L2 F2 B2 D' R2 B2 U2 L2 B2 D B2 U2 L2 (Nb-perm, AUF = U, block on RB)","index":168,"pll":"Nb"},{"time":"5.68","ms":5680,"details":"D' R B' R F2 R' B R F2 R2 U D (Aa-perm, AUF = U', block on RB)","index":169,"pll":"Aa"},{"time":"8.05","ms":8050,"details":"B2 R2 U B2 D' B2 D L2 U' L2 R2 B2 (Ga-perm, AUF = noAuf, block on RB)","index":170,"pll":"Ga"},{"time":"5.98","ms":5980,"details":"R' U2 L' R2 D B' D' L U B U' B2 R' B (Ja-perm, AUF = U2, block on FR)","index":171,"pll":"Ja"},{"time":"6.03","ms":6030,"details":"R' U L' U2 R U' L U F B U2 F' B' (Ga-perm, AUF = U', block on RB)","index":172,"pll":"Ga"},{"time":"8.01","ms":8010,"details":"L B F2 D' B2 R B2 D F2 L2 B' L' U' L2 (F-perm, AUF = U, block on LF)","index":173,"pll":"F"},{"time":"7.40","ms":7400,"details":"F U F2 L F2 U' F' L2 B' U B L2 U2 L' (V-perm, AUF = U2, block on FR)","index":174,"pll":"V"},{"time":"6.42","ms":6420,"details":"L2 U R L2 D' L2 D F2 R' U' R F2 R' L2 (Ja-perm, AUF = U', block on LF)","index":175,"pll":"Ja"},{"time":"4.61","ms":4610,"details":"F' R F2 R' F' R' D B R' U' B' R2 U' D' (Jb-perm, AUF = U, block on LF)","index":176,"pll":"Jb"},{"time":"6.07","ms":6070,"details":"L2 U' L2 D' B2 U2 D' B2 D2 F2 L2 U L2 U F2 (F-perm, AUF = U2, block on FR)","index":177,"pll":"F"},{"time":"6.63","ms":6630,"details":"B' F' U2 B F U2 L R U2 L' R' (H-perm, AUF = U2, block on FR)","index":178,"pll":"H"},{"time":"33.89","ms":33890,"details":"L2 D R L' U2 R' L U' L2 U F2 U' L2 F2 D' (Gd-perm, AUF = U', block on LF)","index":179,"pll":"Gd"},{"time":"5.15","ms":5150,"details":"F2 U D' L2 F2 D R2 U' R2 F2 D' L2 D F2 (T-perm, AUF = U', block on RB)","index":180,"pll":"T"},{"time":"7.77","ms":7770,"details":"L2 B2 L2 R2 F2 R2 D' B2 F2 D' B2 F2 D (Z-perm, AUF = U, block on FR)","index":181,"pll":"Z"},{"time":"6.06","ms":6060,"details":"F' R' F R F B2 R F R' F' D2 L' D2 B2 R' (Na-perm, AUF = noAuf, block on RB)","index":182,"pll":"Na"},{"time":"5.82","ms":5820,"details":"D L2 U F' B L2 F B' U L2 U' D' (Ua-perm, AUF = U, block on BL)","index":183,"pll":"Ua"},{"time":"5.19","ms":5190,"details":"R2 B' R' B R U B U' B' R2 U' R U R' (F-perm, AUF = U', block on BL)","index":184,"pll":"F"},{"time":"6.90","ms":6900,"details":"L' R' B' L F' L' B L R B' R' F R B (E-perm, AUF = noAuf, block on FR)","index":185,"pll":"E"},{"time":"6.09","ms":6090,"details":"R' D' R F2 L' U L F2 U2 D' F2 D F2 D (Jb-perm, AUF = U2, block on BL)","index":186,"pll":"Jb"},{"time":"7.17","ms":7170,"details":"R2 F D' F2 U' F U F2 D F2 R2 B U2 B' (Ga-perm, AUF = U2, block on LF)","index":187,"pll":"Ga"},{"time":"7.51","ms":7510,"details":"L2 D' R2 U L2 D' F2 R2 D L2 U' B2 D L2 (E-perm, AUF = noAuf, block on BL)","index":188,"pll":"E"},{"time":"6.57","ms":6570,"details":"F2 R2 U2 B U2 B' F' U2 B L2 F2 L2 U2 B' R2 (Na-perm, AUF = noAuf, block on FR)","index":189,"pll":"Na"},{"time":"7.54","ms":7540,"details":"B2 R2 F2 U' R2 U F2 D' L2 U B2 U' R2 L2 B2 (Ra-perm, AUF = noAuf, block on LF)","index":190,"pll":"Ra"},{"time":"6.82","ms":6820,"details":"B2 D' L2 D F2 D' L2 U L R' U2 L' R' D (Jb-perm, AUF = noAuf, block on FR)","index":191,"pll":"Jb"},{"time":"7.11","ms":7110,"details":"D R' L' D2 L U L' D2 L U' R U' D' (Aa-perm, AUF = U, block on BL)","index":192,"pll":"Aa"},{"time":"5.82","ms":5820,"details":"B2 U L2 U L2 B2 U2 B2 U L2 U' L2 D' B2 D (F-perm, AUF = U, block on LF)","index":193,"pll":"F"},{"time":"4.57","ms":4570,"details":"L2 R2 D R2 U B2 R2 U B2 D' L2 B2 F2 D B2 (F-perm, AUF = U2, block on FR)","index":194,"pll":"F"},{"time":"7.15","ms":7150,"details":"R' U2 R' D2 L' U L D L' U' L2 F2 L' D R2 (V-perm, AUF = U', block on FR)","index":195,"pll":"V"},{"time":"5.84","ms":5840,"details":"B2 U2 B2 U L2 U2 B2 U B2 U L2 U2 B2 U' B2 (V-perm, AUF = U, block on LF)","index":196,"pll":"V"},{"time":"8.67","ms":8670,"details":"B2 U L2 D' F2 D L2 B2 U' R2 U B2 U' B2 (E-perm, AUF = noAuf, block on LF)","index":197,"pll":"E"},{"time":"7.52","ms":7520,"details":"B2 D' B U R2 B' D2 F' D2 B' U D L2 U' B' (Na-perm, AUF = U, block on RB)","index":198,"pll":"Na"},{"time":"8.69","ms":8690,"details":"F' U F' R2 F U F' B L2 B D' F2 L2 B2 (Jb-perm, AUF = U2, block on RB)","index":199,"pll":"Jb"},{"time":"6.06","ms":6060,"details":"B2 U F D2 F D2 F2 R2 B U2 B' U2 R2 U' B2 (Y-perm, AUF = U, block on BL)","index":200,"pll":"Y"},{"time":"4.93","ms":4930,"details":"L2 D2 R' B R2 B' R' D L' D F L' U' F' (Y-perm, AUF = noAuf, block on FR)","index":201,"pll":"Y"},{"time":"6.78","ms":6780,"details":"F' B' U' B D F U2 F' D' B' U' F B (Aa-perm, AUF = U2, block on BL)","index":202,"pll":"Aa"},{"time":"5.75","ms":5750,"details":"D F2 U' R2 U R2 F2 D R2 D' R2 U' D' (Aa-perm, AUF = U, block on LF)","index":203,"pll":"Aa"},{"time":"6.82","ms":6820,"details":"D' L' D2 L D L' U F2 D' B2 R2 D' R F2 B2 (Gc-perm, AUF = U, block on BL)","index":204,"pll":"Gc"},{"time":"5.11","ms":5110,"details":"F U2 B' U2 L U' F' U2 F U L' B U2 F' (Jb-perm, AUF = U', block on FR)","index":205,"pll":"Jb"},{"time":"7.03","ms":7030,"details":"R L U2 R' L' U F' U B' U2 F U' B (Gb-perm, AUF = U', block on LF)","index":206,"pll":"Gb"},{"time":"7.18","ms":7180,"details":"B U2 L U R' F L' R B' L R' F' L' U R (Ra-perm, AUF = U, block on RB)","index":207,"pll":"Ra"},{"time":"6.09","ms":6090,"details":"B D2 B F2 D2 B2 L2 F' U' F L2 F' U L2 F' (Gc-perm, AUF = U2, block on FR)","index":208,"pll":"Gc"},{"time":"4.65","ms":4650,"details":"R' B2 R' D L2 U' L' U2 L' D' L R2 U L' (Jb-perm, AUF = U', block on RB)","index":209,"pll":"Jb"},{"time":"7.53","ms":7530,"details":"B2 F' D B' F L2 F D2 B F2 D B U2 B F (Gd-perm, AUF = noAuf, block on FR)","index":210,"pll":"Gd"},{"time":"7.02","ms":7020,"details":"F B' R2 F B R2 F2 U R' L' U2 R L (H-perm, AUF = U', block on BL)","index":211,"pll":"H"},{"time":"7.05","ms":7050,"details":"R2 L' D' L F2 L' D R2 L F B U2 F' B' (Ga-perm, AUF = noAuf, block on BL)","index":212,"pll":"Ga"},{"time":"7.57","ms":7570,"details":"R D R' B2 L U' L' B2 U D2 L2 D' L2 D2 (Ja-perm, AUF = U', block on RB)","index":213,"pll":"Ja"},{"time":"6.96","ms":6960,"details":"D' L2 D' R2 U2 D' B2 D' L2 U R2 F2 (Aa-perm, AUF = U, block on BL)","index":214,"pll":"Aa"},{"time":"5.82","ms":5820,"details":"R2 D2 L2 D R2 U' L2 U' F2 U2 R2 D R2 U F2 (Gb-perm, AUF = U, block on BL)","index":215,"pll":"Gb"},{"time":"6.25","ms":6250,"details":"B2 R2 U' R2 U R2 D' R2 D B2 (Ja-perm, AUF = U', block on FR)","index":216,"pll":"Ja"},{"time":"9.22","ms":9220,"details":"R F U L D2 R D' F' U D' F U' F2 R' L' (E-perm, AUF = U', block on BL)","index":217,"pll":"E"},{"time":"6.63","ms":6630,"details":"L2 F' L' F L' B' U' F U R U' R' F' B (Ja-perm, AUF = noAuf, block on RB)","index":218,"pll":"Ja"},{"time":"10.56","ms":10560,"details":"R D' L2 D F2 R' U' R F2 R' L2 U' L2 U L2 (Nb-perm, AUF = noAuf, block on LF)","index":219,"pll":"Nb"},{"time":"6.64","ms":6640,"details":"B2 D2 R2 F2 R2 D2 F2 R2 F' B R2 F' B (H-perm, AUF = U2, block on BL)","index":220,"pll":"H"},{"time":"6.76","ms":6760,"details":"L' U L U' L2 B' U' B U L U' L2 F' L' F (F-perm, AUF = noAuf, block on BL)","index":221,"pll":"F"},{"time":"6.56","ms":6560,"details":"D' L F' L B2 L' F L B2 L2 U2 D (Aa-perm, AUF = U2, block on BL)","index":222,"pll":"Aa"},{"time":"6.50","ms":6500,"details":"L2 R2 D R2 U R2 U' L2 F2 L2 B2 D' L2 U F2 (F-perm, AUF = U2, block on FR)","index":223,"pll":"F"},{"time":"7.77","ms":7770,"details":"R U2 L' U R' U' R2 L D R' U2 R D' R2 (Ja-perm, AUF = U', block on LF)","index":224,"pll":"Ja"},{"time":"6.21","ms":6210,"details":"L2 U' L2 D R2 B2 F2 D' F2 U L2 R2 F2 L2 (Gb-perm, AUF = U2, block on FR)","index":225,"pll":"Gb"},{"time":"6.15","ms":6150,"details":"F2 U2 F R' F L2 F' R F L2 U' F2 U' F2 (Gb-perm, AUF = U2, block on BL)","index":226,"pll":"Gb"},{"time":"4.44","ms":4440,"details":"B U B' R2 F2 D' F' D R2 F' U' F' U F (T-perm, AUF = U2, block on RB)","index":227,"pll":"T"},{"time":"7.87","ms":7870,"details":"R U D' F2 U' R' F2 L D2 B2 L' U' R D' R2 (Nb-perm, AUF = U, block on LF)","index":228,"pll":"Nb"},{"time":"6.11","ms":6110,"details":"F' L' U R D' B' D R' U' L B' F U B (Ja-perm, AUF = U', block on FR)","index":229,"pll":"Ja"},{"time":"9.33","ms":9330,"details":"B2 D F B' L2 F' U' F D2 F' U B R2 D B2 (Ra-perm, AUF = U, block on BL)","index":230,"pll":"Ra"},{"time":"4.96","ms":4960,"details":"D2 B2 D' R2 U B2 U D2 L2 U F2 L2 D (Aa-perm, AUF = U, block on LF)","index":231,"pll":"Aa"},{"time":"5.61","ms":5610,"details":"R2 B2 D2 L2 U D' R L D2 F2 R L D (H-perm, AUF = U', block on LF)","index":232,"pll":"H"},{"time":"6.19","ms":6190,"details":"R B2 L B2 D R D' R' D' R' F2 D' R D F2 (Na-perm, AUF = noAuf, block on LF)","index":233,"pll":"Na"},{"time":"5.08","ms":5080,"details":"B2 R2 F2 D' B' L2 F' B D' F' R2 B U' B (Jb-perm, AUF = noAuf, block on RB)","index":234,"pll":"Jb"},{"time":"5.77","ms":5770,"details":"B2 U D2 F2 U2 R2 U R2 F2 D R2 D' R2 D2 B2 (Gc-perm, AUF = U2, block on BL)","index":235,"pll":"Gc"},{"time":"5.95","ms":5950,"details":"R2 L2 U' R L' U2 D2 R L' D F2 B2 D (Z-perm, AUF = U', block on BL)","index":236,"pll":"Z"},{"time":"7.08","ms":7080,"details":"B2 L' B' L2 U L2 B L B R B R' B U B' (Rb-perm, AUF = U', block on BL)","index":237,"pll":"Rb"},{"time":"7.41","ms":7410,"details":"R2 U2 B2 U B' F D2 L2 B F U' L2 U2 F2 D2 (Nb-perm, AUF = U, block on LF)","index":238,"pll":"Nb"},{"time":"6.75","ms":6750,"details":"L R D2 L' U L U2 D2 L' B2 R B2 R' U R' (Rb-perm, AUF = U', block on RB)","index":239,"pll":"Rb"},{"time":"4.66","ms":4660,"details":"B U' B' U B2 L U L' U' B' U B2 R B R' (F-perm, AUF = noAuf, block on LF)","index":240,"pll":"F"},{"time":"10.90","ms":10900,"details":"R2 U R B' D' R' F' R2 F D B U' R' U2 R' (Rb-perm, AUF = U', block on RB)","index":241,"pll":"Rb"},{"time":"5.09","ms":5090,"details":"R2 U R U' R' U F R B' R B R F' R' (Y-perm, AUF = noAuf, block on RB)","index":242,"pll":"Y"},{"time":"5.20","ms":5200,"details":"D R2 U R2 U D2 L2 B2 U' B2 D L2 (T-perm, AUF = U2, block on FR)","index":243,"pll":"T"},{"time":"9.87","ms":9870,"details":"R' F2 L' U2 L' U' F2 U' F2 U L U2 R U2 L (Gd-perm, AUF = U, block on BL)","index":244,"pll":"Gd"},{"time":"6.08","ms":6080,"details":"B' F R2 D' F' U' R2 U F D B R2 F' (Ua-perm, AUF = U2, block on FR)","index":245,"pll":"Ua"},{"time":"6.69","ms":6690,"details":"F2 L2 D R2 D' L2 D F B' D2 L2 F' B D F2 (Rb-perm, AUF = U, block on RB)","index":246,"pll":"Rb"},{"time":"7.15","ms":7150,"details":"B U' F L2 B' L' B L2 F' U2 L U B' U L' (Na-perm, AUF = U', block on BL)","index":247,"pll":"Na"},{"time":"6.64","ms":6640,"details":"R2 L2 U F' B R2 F B' U R2 L2 D2 (Ub-perm, AUF = U2, block on BL)","index":248,"pll":"Ub"},{"time":"4.77","ms":4770,"details":"B2 L2 U' B2 D F2 L2 F2 L2 U F2 D' B2 L2 (T-perm, AUF = U', block on LF)","index":249,"pll":"T"},{"time":"4.18","ms":4180,"details":"R' F' U F U F' U' R' U' R F R' U R2 (Y-perm, AUF = noAuf, block on FR)","index":250,"pll":"Y"},{"time":"6.71","ms":6710,"details":"R U B U' B' R' U B' R' U' R U B (Ub-perm, AUF = U', block on LF)","index":251,"pll":"Ub"},{"time":"6.61","ms":6610,"details":"R2 U2 B2 R' L' D2 B2 L2 U2 F2 R L' (H-perm, AUF = U2, block on LF)","index":252,"pll":"H"},{"time":"6.78","ms":6780,"details":"R B R' U2 R B' R2 D2 B' L F' L' B D2 R (Na-perm, AUF = U2, block on BL)","index":253,"pll":"Na"},{"time":"5.05","ms":5050,"details":"R2 D R2 U2 R2 B2 D L2 D' B2 D' R2 U2 F2 (Ja-perm, AUF = U, block on FR)","index":254,"pll":"Ja"},{"time":"5.25","ms":5250,"details":"F2 B2 U F B U2 D2 F' B' D' L2 R2 D' (H-perm, AUF = U, block on RB)","index":255,"pll":"H"},{"time":"5.59","ms":5590,"details":"F2 U R2 U R2 U F2 D R2 U2 D' R2 (Ub-perm, AUF = U, block on LF)","index":256,"pll":"Ub"},{"time":"5.95","ms":5950,"details":"B2 U B' D F' R2 U' L2 U R2 F D' B' U' B2 (Rb-perm, AUF = U', block on BL)","index":257,"pll":"Rb"},{"time":"8.92","ms":8920,"details":"R' D B R' U' B' R2 D2 L' F L2 F' L' D (Ja-perm, AUF = noAuf, block on RB)","index":258,"pll":"Ja"},{"time":"4.06","ms":4060,"details":"L2 U2 F U' F R2 B' D B R2 F2 U' L2 (T-perm, AUF = noAuf, block on BL)","index":259,"pll":"T"},{"time":"7.37","ms":7370,"details":"D L2 U B F' L2 B' F U L2 U2 D' (Ua-perm, AUF = U2, block on LF)","index":260,"pll":"Ua"},{"time":"13.00","ms":13000,"details":"R2 F' U' F2 U R2 U' F2 R2 D' F' D R2 U F (Ra-perm, AUF = noAuf, block on RB)","index":261,"pll":"Ra"},{"time":"52.10","ms":52100,"details":"L2 F2 R2 D' R' L2 U' R B2 L' D R2 L (Gb-perm, AUF = U', block on BL)","index":262,"pll":"Gb"},{"time":"6.61","ms":6610,"details":"B2 D F2 D' R2 U L2 B2 U' R2 D L2 D' B2 (E-perm, AUF = noAuf, block on RB)","index":263,"pll":"E"},{"time":"5.11","ms":5110,"details":"F B U2 F' B' U2 L' U R' U2 L U' R (Gb-perm, AUF = noAuf, block on BL)","index":264,"pll":"Gb"},{"time":"7.12","ms":7120,"details":"R2 F2 U F2 U' R2 U F2 B2 L2 F2 U B2 R2 D (Gd-perm, AUF = U', block on BL)","index":265,"pll":"Gd"},{"time":"6.76","ms":6760,"details":"B' U' D L2 U B L2 F' D2 R2 F U B' D B2 (Na-perm, AUF = U, block on LF)","index":266,"pll":"Na"},{"time":"5.92","ms":5920,"details":"R' B2 R2 U L U2 R' U' R U2 L' R2 B2 R (Gb-perm, AUF = U2, block on RB)","index":267,"pll":"Gb"},{"time":"7.73","ms":7730,"details":"B' R B R' U B U L U L' B' R' U2 R (Rb-perm, AUF = noAuf, block on LF)","index":268,"pll":"Rb"},{"time":"6.00","ms":6000,"details":"B' F R2 D' F' U' R2 U F D B R2 F' (Ua-perm, AUF = U2, block on FR)","index":269,"pll":"Ua"},{"time":"8.78","ms":8780,"details":"B U2 L2 F' L' F L' U L' R B L B' R' B' (E-perm, AUF = U, block on RB)","index":270,"pll":"E"},{"time":"5.32","ms":5320,"details":"R B2 U B D' F D2 B D F D F2 R2 D R' (Rb-perm, AUF = noAuf, block on BL)","index":271,"pll":"Rb"},{"time":"3.48","ms":3480,"details":"F2 R D' L' U D' B2 U' D L' D R' F2 (Ua-perm, AUF = noAuf, block on BL)","index":272,"pll":"Ua"},{"time":"5.88","ms":5880,"details":"D' B2 L2 B R B' L2 B R' B U D (Aa-perm, AUF = U', block on LF)","index":273,"pll":"Aa"},{"time":"6.67","ms":6670,"details":"D R2 D' R L F2 R L' U' D' F2 D F2 (Ub-perm, AUF = U', block on BL)","index":274,"pll":"Ub"},{"time":"8.04","ms":8040,"details":"D2 F2 D' F2 U F2 L2 U L2 U' F2 D' (Aa-perm, AUF = U', block on RB)","index":275,"pll":"Aa"},{"time":"9.82","ms":9820,"details":"B2 R2 L2 B2 U' B F U2 D2 B F D' B2 F2 (Z-perm, AUF = U2, block on LF)","index":276,"pll":"Z"},{"time":"5.88","ms":5880,"details":"R2 U' D2 B U B' L2 B U' B' L2 U D2 R2 (Jb-perm, AUF = U', block on BL)","index":277,"pll":"Jb"},{"time":"7.83","ms":7830,"details":"F2 L D' L2 U' L U L2 D L2 F2 R U2 R' (Ga-perm, AUF = U2, block on BL)","index":278,"pll":"Ga"},{"time":"6.03","ms":6030,"details":"R2 F B U' D' L2 D2 L2 B2 U D' F' B (H-perm, AUF = U2, block on RB)","index":279,"pll":"H"},{"time":"13.77","ms":13770,"details":"F B' R2 F' B' D F2 R2 U F2 U' B2 U L2 (Gd-perm, AUF = noAuf, block on RB)","index":280,"pll":"Gd"},{"time":"5.14","ms":5140,"details":"F' U F' R2 F U' F U' D2 B2 L2 B2 D2 (Aa-perm, AUF = U, block on BL)","index":281,"pll":"Aa"},{"time":"6.34","ms":6340,"details":"R2 L2 U' F2 B2 D F B' U2 D2 F B' (Z-perm, AUF = noAuf, block on BL)","index":282,"pll":"Z"},{"time":"6.11","ms":6110,"details":"B D2 F' L' B F' L' B U2 D2 F2 R2 B R (Z-perm, AUF = U, block on LF)","index":283,"pll":"Z"},{"time":"6.76","ms":6760,"details":"B2 L2 B2 F2 U' R2 F2 D' F2 R2 D' R2 D F2 (Gb-perm, AUF = noAuf, block on FR)","index":284,"pll":"Gb"},{"time":"6.97","ms":6970,"details":"L U B2 L' B2 U R' U2 R U' B2 L B2 U' L' (Na-perm, AUF = U', block on LF)","index":285,"pll":"Na"},{"time":"7.05","ms":7050,"details":"L' U L' B2 R D' R D R2 B2 L2 (Ja-perm, AUF = noAuf, block on BL)","index":286,"pll":"Ja"},{"time":"6.61","ms":6610,"details":"D' R U' R D B2 U' L' D L' F2 D' L2 B2 (Jb-perm, AUF = U, block on LF)","index":287,"pll":"Jb"},{"time":"6.19","ms":6190,"details":"B' D' F R2 D B D' F' U2 D B U B' (Ub-perm, AUF = U', block on LF)","index":288,"pll":"Ub"},{"time":"7.12","ms":7120,"details":"L2 F2 D' B2 D F2 D' B2 D L2 (Ab-perm, AUF = noAuf, block on LF)","index":289,"pll":"Ab"},{"time":"5.32","ms":5320,"details":"F B2 R F' L2 F R' F' L2 B2 (Ab-perm, AUF = noAuf, block on BL)","index":290,"pll":"Ab"},{"time":"4.64","ms":4640,"details":"L2 D F2 U' R2 D2 L2 B2 D' R2 D' F2 D' F2 (T-perm, AUF = U2, block on BL)","index":291,"pll":"T"},{"time":"7.32","ms":7320,"details":"F2 D R D B2 U R D' R2 U' R2 D' F2 U L (Ra-perm, AUF = U', block on RB)","index":292,"pll":"Ra"},{"time":"6.53","ms":6530,"details":"R' U' F D2 B' L B D2 F2 U R U' F (Ra-perm, AUF = U, block on FR)","index":293,"pll":"Ra"},{"time":"22.02","ms":22020,"details":"L R U2 L' U L U2 D2 R' U2 R D2 R' U L' (Ga-perm, AUF = U2, block on RB)","index":294,"pll":"Ga"},{"time":"5.69","ms":5690,"details":"B' F' D2 B' F2 D F' L2 F D B2 F2 U2 F (Ga-perm, AUF = noAuf, block on FR)","index":295,"pll":"Ga"},{"time":"4.15","ms":4150,"details":"R2 B2 U B2 U' B2 F2 D B2 D' F2 R2 (Ub-perm, AUF = noAuf, block on FR)","index":296,"pll":"Ub"},{"time":"7.05","ms":7050,"details":"F2 D' F' D F' R2 B U' B' R2 (Jb-perm, AUF = noAuf, block on BL)","index":297,"pll":"Jb"},{"time":"6.25","ms":6250,"details":"L R U2 L R D' L2 B2 L2 D L2 R2 (Ub-perm, AUF = U2, block on FR)","index":298,"pll":"Ub"},{"time":"6.28","ms":6280,"details":"F2 U' F2 U R2 U D2 B2 U2 D' B2 R2 D' (Aa-perm, AUF = U, block on RB)","index":299,"pll":"Aa"},{"time":"6.63","ms":6630,"details":"F B' R2 F B R2 F2 U L' R' U2 L R (H-perm, AUF = U', block on RB)","index":300,"pll":"H"},{"time":"6.75","ms":6750,"details":"L' U L' B2 R D' R D R2 B2 L2 (Ja-perm, AUF = noAuf, block on BL)","index":301,"pll":"Ja"},{"time":"5.64","ms":5640,"details":"F R F2 L F' L' F' R' F' U2 R' U R' U' R (V-perm, AUF = U2, block on LF)","index":302,"pll":"V"},{"time":"5.54","ms":5540,"details":"B2 L2 F2 D F2 U L2 U' L2 B2 F2 U R2 U' F2 (F-perm, AUF = U2, block on FR)","index":303,"pll":"F"},{"time":"6.56","ms":6560,"details":"L2 D2 F2 D' L2 D2 R2 B2 U B2 U2 B2 R2 D (Na-perm, AUF = noAuf, block on FR)","index":304,"pll":"Na"},{"time":"6.64","ms":6640,"details":"B2 L F' L B2 L' F R D2 R L D F2 D R2 L2 (Gd-perm, AUF = U2, block on LF)","index":305,"pll":"Gd"},{"time":"4.55","ms":4550,"details":"B U' F U2 B' U F' L' U R' U2 L U' R (T-perm, AUF = U', block on BL)","index":306,"pll":"T"},{"time":"5.85","ms":5850,"details":"L' R U2 L R' U' L2 R2 D B2 D' L2 R2 (Ua-perm, AUF = U, block on FR)","index":307,"pll":"Ua"},{"time":"5.91","ms":5910,"details":"F2 R' F' R F U R U' R' F2 U' F U F' (F-perm, AUF = U', block on RB)","index":308,"pll":"F"},{"time":"5.91","ms":5910,"details":"R' U2 R2 U2 R2 U L U2 R' U L' U' B2 R2 B2 (Rb-perm, AUF = noAuf, block on RB)","index":309,"pll":"Rb"},{"time":"5.56","ms":5560,"details":"F2 B2 D B2 L2 R2 F U F' L2 B D' B' R2 F2 (Ga-perm, AUF = U, block on RB)","index":310,"pll":"Ga"},{"time":"7.01","ms":7010,"details":"F D' R2 D F' U2 D B D2 F' R2 F U D B2 (Na-perm, AUF = U, block on BL)","index":311,"pll":"Na"},{"time":"5.62","ms":5620,"details":"B2 R2 U B2 U' R2 U B2 D' R2 D (Aa-perm, AUF = U', block on FR)","index":312,"pll":"Aa"},{"time":"5.04","ms":5040,"details":"F2 D R2 F2 L' U' L F2 R' D R' D2 F2 (T-perm, AUF = noAuf, block on RB)","index":313,"pll":"T"},{"time":"10.72","ms":10720,"details":"D2 L2 B2 U2 B2 U B2 L2 D2 R2 U F2 U2 R2 (Nb-perm, AUF = U, block on LF)","index":314,"pll":"Nb"},{"time":"10.29","ms":10290,"details":"R2 F2 U R2 U' F2 U R2 D' F2 U2 D (Aa-perm, AUF = U, block on RB)","index":315,"pll":"Aa"},{"time":"7.26","ms":7260,"details":"R2 U' D' L2 U2 D' R' L' B2 D2 R L' U F2 U2 R2 (Nb-perm, AUF = U', block on LF)","index":316,"pll":"Nb"},{"time":"4.48","ms":4480,"details":"F2 L2 D2 F2 L' R' U2 F2 L' R' F2 B2 (H-perm, AUF = noAuf, block on RB)","index":317,"pll":"H"},{"time":"9.11","ms":9110,"details":"R U' F' U B' U' F B' U' B U2 B' U' B2 R' (Ra-perm, AUF = noAuf, block on RB)","index":318,"pll":"Ra"},{"time":"5.73","ms":5730,"details":"L R' F2 D R U F2 U' R' D' L' F2 R (Ub-perm, AUF = U2, block on RB)","index":319,"pll":"Ub"},{"time":"6.65","ms":6650,"details":"F2 B2 L' R' D2 L R F' D F' L2 F D' F' B2 (Gd-perm, AUF = noAuf, block on RB)","index":320,"pll":"Gd"},{"time":"4.46","ms":4460,"details":"R2 D' B2 L2 D L2 B2 R2 D B2 D B2 D' (Ua-perm, AUF = U, block on LF)","index":321,"pll":"Ua"},{"time":"4.99","ms":4990,"details":"B' R' B U2 D2 F2 U' L' U F L F D2 (Ua-perm, AUF = U', block on LF)","index":322,"pll":"Ua"},{"time":"7.31","ms":7310,"details":"B2 L2 F2 U' L2 B2 F2 R2 U' L2 B2 L2 D' (H-perm, AUF = U', block on FR)","index":323,"pll":"H"},{"time":"6.09","ms":6090,"details":"R F2 B' D2 F L' F' D2 B2 R' B' R F2 R' (F-perm, AUF = noAuf, block on BL)","index":324,"pll":"F"},{"time":"6.75","ms":6750,"details":"F2 L2 F2 U B' R2 B' F D' F' R2 B U' B (Gd-perm, AUF = U, block on LF)","index":325,"pll":"Gd"},{"time":"6.73","ms":6730,"details":"L2 F2 L U B' R' U' R B2 L' B' F2 L2 (Gd-perm, AUF = noAuf, block on FR)","index":326,"pll":"Gd"},{"time":"6.33","ms":6330,"details":"R L' B2 U D' B2 U' D' L2 D2 R' L' B2 (H-perm, AUF = U2, block on LF)","index":327,"pll":"H"},{"time":"5.28","ms":5280,"details":"F B U2 F' B' U' L' U R' U2 L U' R (Gb-perm, AUF = U, block on BL)","index":328,"pll":"Gb"},{"time":"5.71","ms":5710,"details":"R U R U R' U2 F2 B2 D L' D' F2 B2 R' (Ua-perm, AUF = U, block on BL)","index":329,"pll":"Ua"},{"time":"6.55","ms":6550,"details":"F' R B2 L D L2 D' L' B' L2 B' R' F (Jb-perm, AUF = U', block on RB)","index":330,"pll":"Jb"},{"time":"6.79","ms":6790,"details":"D' L U2 L U2 L' U2 D L' U L2 D' L D L2 (Na-perm, AUF = U', block on RB)","index":331,"pll":"Na"},{"time":"8.63","ms":8630,"details":"B L' B R D2 B R' U B U L U' R' F' R (Rb-perm, AUF = U', block on FR)","index":332,"pll":"Rb"},{"time":"6.00","ms":6000,"details":"R2 D' L2 D' F' B D2 R2 F' U' F U2 B' U F (Y-perm, AUF = U', block on RB)","index":333,"pll":"Y"},{"time":"6.37","ms":6370,"details":"R2 U' F2 R2 F2 B U' F U2 B' U F' R2 (Ga-perm, AUF = U', block on BL)","index":334,"pll":"Ga"},{"time":"7.78","ms":7780,"details":"R2 U F2 L2 D R2 D' R2 F2 D' B2 D F2 L2 F2 (F-perm, AUF = noAuf, block on LF)","index":335,"pll":"F"},{"time":"6.05","ms":6050,"details":"R2 L2 U2 D2 R' B R' F2 R B' R' F2 L2 D2 (Ab-perm, AUF = U2, block on LF)","index":336,"pll":"Ab"},{"time":"14.14","ms":14140,"details":"R2 U D' F' D' L2 U B' U' B U2 F' D2 R2 B' (Na-perm, AUF = U', block on LF)","index":337,"pll":"Na"},{"time":"9.48","ms":9480,"details":"R L' B R2 D2 R2 L B' L U2 R' F L' (F-perm, AUF = U2, block on BL)","index":338,"pll":"F"},{"time":"8.80","ms":8800,"details":"L2 D L2 D B2 U R2 F2 D2 B2 U L2 U' F2 (Ja-perm, AUF = U2, block on FR)","index":339,"pll":"Ja"},{"time":"9.64","ms":9640,"details":"D' R2 U B2 U' F2 D L2 B2 D' F2 D B2 U' B2 (E-perm, AUF = U, block on RB)","index":340,"pll":"E"},{"time":"5.52","ms":5520,"details":"L2 R2 B2 L2 U R2 F2 U B2 U' L2 U L2 B2 D (Ga-perm, AUF = U', block on FR)","index":341,"pll":"Ga"},{"time":"5.65","ms":5650,"details":"F B' R2 F B R2 F2 U L' R' U2 L R (H-perm, AUF = U', block on RB)","index":342,"pll":"H"},{"time":"7.50","ms":7500,"details":"B R' U B2 D2 L' F2 D' L D' B U2 B U B' (Ga-perm, AUF = U, block on LF)","index":343,"pll":"Ga"},{"time":"6.05","ms":6050,"details":"L' R2 U' F2 L2 B2 D' L2 F2 R B2 L R' (Ub-perm, AUF = U2, block on RB)","index":344,"pll":"Ub"},{"time":"5.76","ms":5760,"details":"F' R2 U R2 U' R2 F U2 F' R2 U R2 U' R2 F (Na-perm, AUF = U', block on LF)","index":345,"pll":"Na"},{"time":"5.54","ms":5540,"details":"F' L' B L' B L B2 L F U' B U' B' (Ua-perm, AUF = U2, block on RB)","index":346,"pll":"Ua"},{"time":"6.81","ms":6810,"details":"D' L2 D' B2 U2 R2 D L2 F2 U' B2 D' B2 D2 R2 (Ra-perm, AUF = U2, block on FR)","index":347,"pll":"Ra"},{"time":"6.28","ms":6280,"details":"B' F2 D' B R2 F' U B2 F U L2 B2 R2 U2 D (Ga-perm, AUF = U2, block on LF)","index":348,"pll":"Ga"},{"time":"7.98","ms":7980,"details":"B' D2 R' D F D' R D2 B D' R' F' R U' D (E-perm, AUF = U, block on LF)","index":349,"pll":"E"},{"time":"6.14","ms":6140,"details":"B2 U R2 F2 D' F' D F' R2 B U' B' U' B2 (Y-perm, AUF = noAuf, block on BL)","index":350,"pll":"Y"},{"time":"8.02","ms":8020,"details":"L2 R2 D L2 R2 U L2 R2 D2 F2 L2 R2 B2 (Z-perm, AUF = noAuf, block on RB)","index":351,"pll":"Z"},{"time":"5.61","ms":5610,"details":"B U2 B' U R2 F' R' D2 R' U' R D2 R F R2 (V-perm, AUF = U, block on FR)","index":352,"pll":"V"},{"time":"5.93","ms":5930,"details":"B2 U' B2 U' B' D F' D' L2 B2 L2 D F D' B' (Y-perm, AUF = U, block on BL)","index":353,"pll":"Y"},{"time":"6.44","ms":6440,"details":"B F2 D B' R2 B D' F2 U' F U2 B' U F' (Na-perm, AUF = U', block on FR)","index":354,"pll":"Na"},{"time":"5.79","ms":5790,"details":"R' D L2 D' B2 R U R' B2 R L2 U L2 U' L2 (Na-perm, AUF = U2, block on BL)","index":355,"pll":"Na"},{"time":"8.90","ms":8900,"details":"L U2 B2 L' D' F2 D L D' F2 D' R D2 B2 (Ab-perm, AUF = U2, block on FR)","index":356,"pll":"Ab"},{"time":"6.88","ms":6880,"details":"R B2 R2 B U B' L B U' B' L' R2 B2 R' (Gb-perm, AUF = U2, block on RB)","index":357,"pll":"Gb"},{"time":"8.10","ms":8100,"details":"B' U B' L2 B U B' F R2 F D' B2 R2 F2 (Jb-perm, AUF = U2, block on LF)","index":358,"pll":"Jb"},{"time":"5.88","ms":5880,"details":"R' U2 L R F U F' U2 R' U L' F' U' F R (Ga-perm, AUF = U, block on FR)","index":359,"pll":"Ga"},{"time":"5.51","ms":5510,"details":"B2 D' L2 D F2 D' L2 U L R' U2 L' R' D (Jb-perm, AUF = noAuf, block on FR)","index":360,"pll":"Jb"},{"time":"7.68","ms":7680,"details":"F2 L' F B L2 B' U F U' F' L' B L2 B' U2 F (Gd-perm, AUF = U2, block on RB)","index":361,"pll":"Gd"},{"time":"5.67","ms":5670,"details":"D2 B2 U' L' R B2 L R' U' B2 U' D2 (Ub-perm, AUF = U, block on RB)","index":362,"pll":"Ub"},{"time":"6.69","ms":6690,"details":"F2 L2 U R2 D' B2 D R2 D' L2 U D (Aa-perm, AUF = U2, block on LF)","index":363,"pll":"Aa"},{"time":"7.17","ms":7170,"details":"B U2 R' D2 R U2 B' U2 B U2 R' D2 R U2 B' (E-perm, AUF = U2, block on LF)","index":364,"pll":"E"},{"time":"9.37","ms":9370,"details":"R U B U' B' L' R' B' U' B U L (Ub-perm, AUF = noAuf, block on FR)","index":365,"pll":"Ub"},{"time":"6.60","ms":6600,"details":"B2 F2 D B' F' D F D' F2 U F' U B' F U R2 (Gd-perm, AUF = U2, block on LF)","index":366,"pll":"Gd"},{"time":"4.96","ms":4960,"details":"R' U B L U L' U' B' R B L' B L B2 (Ja-perm, AUF = noAuf, block on FR)","index":367,"pll":"Ja"},{"time":"6.40","ms":6400,"details":"B' U L' B2 R' U R B2 L2 D L D' L2 U' B (V-perm, AUF = noAuf, block on BL)","index":368,"pll":"V"},{"time":"6.70","ms":6700,"details":"B2 U R2 U R2 U' L D' L F2 L' D L' B2 R2 (Gb-perm, AUF = U', block on LF)","index":369,"pll":"Gb"},{"time":"7.59","ms":7590,"details":"B' R' F' U2 L' B2 L' F' B' D L' D L' F2 (Ja-perm, AUF = U2, block on RB)","index":370,"pll":"Ja"},{"time":"6.52","ms":6520,"details":"F B' D' R2 D B' D B' U' B D' B2 U F' (Rb-perm, AUF = U, block on BL)","index":371,"pll":"Rb"},{"time":"6.59","ms":6590,"details":"D' R U2 R D L2 D' F2 D L B2 L U' R2 B2 (Gc-perm, AUF = U, block on FR)","index":372,"pll":"Gc"},{"time":"7.01","ms":7010,"details":"B F' L2 B' F' L2 F2 U L U' R U2 L' U R' (Gd-perm, AUF = U, block on FR)","index":373,"pll":"Gd"},{"time":"6.10","ms":6100,"details":"L F' L U' L U L2 F2 L F' U' L F L2 F' (V-perm, AUF = U, block on RB)","index":374,"pll":"V"},{"time":"4.49","ms":4490,"details":"R' U' R B2 U B2 D' R' U R D B2 U' B2 (T-perm, AUF = U, block on LF)","index":375,"pll":"T"},{"time":"4.46","ms":4460,"details":"F' U' L' U L F U' L F U F' U' L' (Ua-perm, AUF = U, block on BL)","index":376,"pll":"Ua"},{"time":"7.17","ms":7170,"details":"B2 L2 B R B' L2 B R' B (Aa-perm, AUF = noAuf, block on FR)","index":377,"pll":"Aa"},{"time":"6.86","ms":6860,"details":"L U' L2 F2 D' R B2 R' D F2 L2 U L' (Na-perm, AUF = U, block on RB)","index":378,"pll":"Na"},{"time":"6.34","ms":6340,"details":"B F2 L F L' B' L F R U' R' U F2 L' F2 (Ra-perm, AUF = U', block on LF)","index":379,"pll":"Ra"},{"time":"6.34","ms":6340,"details":"F2 U R2 U' L2 U R2 U' L2 F2 (Ab-perm, AUF = noAuf, block on RB)","index":380,"pll":"Ab"},{"time":"4.92","ms":4920,"details":"D2 L2 D F2 U' L2 U F2 U' L2 F2 D (Ab-perm, AUF = U, block on LF)","index":381,"pll":"Ab"},{"time":"6.24","ms":6240,"details":"L B2 L2 R2 F2 L' D B2 L2 R2 F2 (H-perm, AUF = U', block on FR)","index":382,"pll":"H"},{"time":"6.46","ms":6460,"details":"L R D2 L' U L U2 D2 L' B2 R B2 R' U R' (Rb-perm, AUF = U', block on RB)","index":383,"pll":"Rb"},{"time":"7.06","ms":7060,"details":"D2 L2 U R2 B F' R2 L2 D2 B' F U' R2 (Ua-perm, AUF = U2, block on LF)","index":384,"pll":"Ua"},{"time":"5.79","ms":5790,"details":"L' B L' F' D2 L' F U' L' U' B' U F R F' (Ra-perm, AUF = U, block on RB)","index":385,"pll":"Ra"},{"time":"5.65","ms":5650,"details":"F2 L2 U R2 D' B2 D R2 D' L2 D (Aa-perm, AUF = U', block on FR)","index":386,"pll":"Aa"},{"time":"7.45","ms":7450,"details":"L2 R2 U B F' L2 R2 B' F U' L2 R2 U D2 (Z-perm, AUF = U, block on FR)","index":387,"pll":"Z"},{"time":"6.35","ms":6350,"details":"F2 R2 U F' U F' L2 B D' B' L2 F2 U2 R2 F2 (Rb-perm, AUF = noAuf, block on FR)","index":388,"pll":"Rb"},{"time":"6.55","ms":6550,"details":"R L2 D R' F2 R D' L' U2 R' L' (Jb-perm, AUF = U', block on LF)","index":389,"pll":"Jb"},{"time":"5.35","ms":5350,"details":"F2 R2 U' F' U' F U F U R2 F U' F (Rb-perm, AUF = U, block on BL)","index":390,"pll":"Rb"},{"time":"9.36","ms":9360,"details":"B2 D' R2 D2 F2 U F2 U' D2 R2 B2 U2 B2 D B2 (E-perm, AUF = U2, block on FR)","index":391,"pll":"E"},{"time":"7.67","ms":7670,"details":"D' F2 R2 U R2 D' F2 U' D2 R2 U' R2 (Jb-perm, AUF = U2, block on LF)","index":392,"pll":"Jb"},{"time":"7.70","ms":7700,"details":"F' U B' R2 D B R2 U R2 B' D2 F' D R2 B (Ra-perm, AUF = U, block on FR)","index":393,"pll":"Ra"},{"time":"7.05","ms":7050,"details":"D' F2 U' R2 D2 B2 D L2 D' B2 L2 U2 L2 D' R2 (V-perm, AUF = U2, block on LF)","index":394,"pll":"V"},{"time":"6.78","ms":6780,"details":"L2 R2 U' B F' L2 R2 B' F U L2 R2 D2 (Z-perm, AUF = U2, block on FR)","index":395,"pll":"Z"},{"time":"7.06","ms":7060,"details":"R2 U2 B2 U R2 U2 R2 B2 U B2 U2 B2 R2 (Na-perm, AUF = U', block on BL)","index":396,"pll":"Na"},{"time":"6.34","ms":6340,"details":"F2 D2 F2 L2 U B2 L2 U2 F2 R2 D' F2 L2 U2 L2 (Nb-perm, AUF = U', block on LF)","index":397,"pll":"Nb"},{"time":"6.20","ms":6200,"details":"B L2 B' L2 B2 U' B' L2 F' L2 B' D L2 D' F (Y-perm, AUF = U2, block on LF)","index":398,"pll":"Y"},{"time":"5.56","ms":5560,"details":"F2 R2 B D2 F D F' D2 B2 D' F' R2 B U F' (Gb-perm, AUF = U, block on RB)","index":399,"pll":"Gb"},{"time":"5.88","ms":5880,"details":"D R2 B2 L F L' B2 L F' R2 L' U' D' (Aa-perm, AUF = U, block on BL)","index":400,"pll":"Aa"},{"time":"5.07","ms":5070,"details":"R U2 R2 F' U' F R2 B U B2 R' B2 U' B' (V-perm, AUF = U2, block on FR)","index":401,"pll":"V"},{"time":"11.22","ms":11220,"details":"R D R' B2 L U' L' B2 U D2 L2 D' L2 D2 (Ja-perm, AUF = U', block on RB)","index":402,"pll":"Ja"},{"time":"4.91","ms":4910,"details":"R2 U F' B2 D F' L2 F D' F B2 R2 U' R2 (T-perm, AUF = U', block on RB)","index":403,"pll":"T"},{"time":"8.35","ms":8350,"details":"F' U' L2 D2 R' B' R D2 L' F L' F' U F (Ra-perm, AUF = noAuf, block on BL)","index":404,"pll":"Ra"},{"time":"6.64","ms":6640,"details":"R D' B2 D R' U2 D L D2 R' B2 R U D L2 (Na-perm, AUF = U', block on BL)","index":405,"pll":"Na"},{"time":"6.88","ms":6880,"details":"B2 D F B' L2 F' U' F D2 F' U B R2 D B2 (Ra-perm, AUF = U, block on BL)","index":406,"pll":"Ra"},{"time":"6.30","ms":6300,"details":"R D2 R L2 D' R2 L2 U L B2 R' F2 R L' (Z-perm, AUF = U2, block on BL)","index":407,"pll":"Z"},{"time":"10.77","ms":10770,"details":"R2 B2 D' F D' F L2 B' U B D F2 D B2 (Ra-perm, AUF = U2, block on BL)","index":408,"pll":"Ra"},{"time":"4.53","ms":4530,"details":"L2 D' R2 F2 L D L' F2 R U' R U D L2 (T-perm, AUF = noAuf, block on BL)","index":409,"pll":"T"},{"time":"5.52","ms":5520,"details":"F B' R2 F B R2 F2 U L' R' U2 L R (H-perm, AUF = U', block on RB)","index":410,"pll":"H"},{"time":"4.08","ms":4080,"details":"B2 U' D' F' U F' L2 B D' B' L2 F2 D B2 (T-perm, AUF = noAuf, block on RB)","index":411,"pll":"T"}]
+[
+  {
+    "time": "10.72",
+    "ms": 10720,
+    "details": "B U2 F L2 F' D2 F D2 F' R2 F D2 R2 L2 F' (Na-perm, AUF = noAuf, block on BL)",
+    "index": 0,
+    "pll": "Na"
+  },
+  {
+    "time": "6.77",
+    "ms": 6770,
+    "details": "R2 F2 U' R2 U' R2 U F' U F' R2 F U' F' (Gd-perm, AUF = U, block on LF)",
+    "index": 1,
+    "pll": "Gd"
+  },
+  {
+    "time": "9.41",
+    "ms": 9410,
+    "details": "R2 D' L2 D' F' B D2 R2 F' U' F U2 B' U F (Y-perm, AUF = U', block on RB)",
+    "index": 2,
+    "pll": "Y"
+  },
+  {
+    "time": "5.89",
+    "ms": 5890,
+    "details": "L F U' B' U F U' B U F2 L' (Aa-perm, AUF = noAuf, block on FR)",
+    "index": 3,
+    "pll": "Aa"
+  },
+  {
+    "time": "8.80",
+    "ms": 8800,
+    "details": "R U' R2 D L B2 L2 D L' D R F2 D' L2 D2 (Na-perm, AUF = noAuf, block on FR)",
+    "index": 4,
+    "pll": "Na"
+  },
+  {
+    "time": "7.26",
+    "ms": 7260,
+    "details": "B' F' U2 F2 R2 B2 F' L' B R2 B' L B' (Ab-perm, AUF = U2, block on LF)",
+    "index": 5,
+    "pll": "Ab"
+  },
+  {
+    "time": "5.41",
+    "ms": 5410,
+    "details": "D' B2 R2 B' L' B R2 B' L B' U D (Ab-perm, AUF = U', block on BL)",
+    "index": 6,
+    "pll": "Ab"
+  },
+  {
+    "time": "6.05",
+    "ms": 6050,
+    "details": "L2 D F2 R2 U' D2 B2 U' B2 L2 D' B2 R2 D2 (Ab-perm, AUF = U2, block on BL)",
+    "index": 7,
+    "pll": "Ab"
+  },
+  {
+    "time": "4.21",
+    "ms": 4210,
+    "details": "L' U L' B2 R D R L' F2 L D R2 B2 L2 (Jb-perm, AUF = noAuf, block on BL)",
+    "index": 8,
+    "pll": "Jb"
+  },
+  {
+    "time": "5.70",
+    "ms": 5700,
+    "details": "L2 U2 B2 D' R2 D' F2 D B2 U2 B2 R2 D B2 (F-perm, AUF = U, block on FR)",
+    "index": 9,
+    "pll": "F"
+  },
+  {
+    "time": "6.01",
+    "ms": 6010,
+    "details": "B2 L' B' L2 U L2 B L B R B R' B U B' (Rb-perm, AUF = U', block on BL)",
+    "index": 10,
+    "pll": "Rb"
+  },
+  {
+    "time": "5.56",
+    "ms": 5560,
+    "details": "B2 R2 L2 F2 D2 B D' B R2 L2 F' U F' (Ua-perm, AUF = U2, block on LF)",
+    "index": 11,
+    "pll": "Ua"
+  },
+  {
+    "time": "8.04",
+    "ms": 8040,
+    "details": "F2 U D' L2 B2 R2 U' R2 U R2 U' B2 D L2 (Ja-perm, AUF = U', block on RB)",
+    "index": 12,
+    "pll": "Ja"
+  },
+  {
+    "time": "7.87",
+    "ms": 7870,
+    "details": "F U2 D' B L2 F' L2 B' U D F2 D' F' D F2 (Na-perm, AUF = U', block on FR)",
+    "index": 13,
+    "pll": "Na"
+  },
+  {
+    "time": "6.62",
+    "ms": 6620,
+    "details": "F2 B L2 D F L2 B' U' L2 F' B2 D B2 L2 F2 (Gd-perm, AUF = U', block on RB)",
+    "index": 14,
+    "pll": "Gd"
+  },
+  {
+    "time": "4.89",
+    "ms": 4890,
+    "details": "R' F2 R2 B2 L' D2 R D' L2 D L' F2 R' B2 R' (Y-perm, AUF = U', block on FR)",
+    "index": 15,
+    "pll": "Y"
+  },
+  {
+    "time": "8.03",
+    "ms": 8030,
+    "details": "L2 D L U L' F2 L U' R' D2 B2 L' R D L2 (Ga-perm, AUF = U2, block on RB)",
+    "index": 16,
+    "pll": "Ga"
+  },
+  {
+    "time": "6.15",
+    "ms": 6150,
+    "details": "D' L2 F2 U F2 D' L2 U' D2 F2 U' F2 (Jb-perm, AUF = U2, block on BL)",
+    "index": 17,
+    "pll": "Jb"
+  },
+  {
+    "time": "9.25",
+    "ms": 9250,
+    "details": "R2 D' F2 D2 L2 U L2 U' D2 F2 R2 U2 R2 D R2 (E-perm, AUF = U2, block on LF)",
+    "index": 18,
+    "pll": "E"
+  },
+  {
+    "time": "6.42",
+    "ms": 6420,
+    "details": "R B2 R' U R2 F2 L' D L F2 R2 U' L U' L' (V-perm, AUF = U, block on RB)",
+    "index": 19,
+    "pll": "V"
+  },
+  {
+    "time": "7.11",
+    "ms": 7110,
+    "details": "B2 U2 R2 U' F B' R2 F' B' U2 R2 U' B2 U2 R2 (Nb-perm, AUF = U', block on RB)",
+    "index": 20,
+    "pll": "Nb"
+  },
+  {
+    "time": "6.90",
+    "ms": 6900,
+    "details": "F' U2 B' F2 D R' D' B U R U' R2 F' R (Ja-perm, AUF = U2, block on LF)",
+    "index": 21,
+    "pll": "Ja"
+  },
+  {
+    "time": "7.71",
+    "ms": 7710,
+    "details": "R' U2 R U' R' F2 U' L' U L F2 U' R (Z-perm, AUF = noAuf, block on LF)",
+    "index": 22,
+    "pll": "Z"
+  },
+  {
+    "time": "5.59",
+    "ms": 5590,
+    "details": "B F' L2 D F U L2 U' F' D' B' L2 F (Ub-perm, AUF = U2, block on FR)",
+    "index": 23,
+    "pll": "Ub"
+  },
+  {
+    "time": "6.55",
+    "ms": 6550,
+    "details": "L2 U' F2 U2 F D2 L B' R2 B L' D2 F U L2 (Gc-perm, AUF = noAuf, block on RB)",
+    "index": 24,
+    "pll": "Gc"
+  },
+  {
+    "time": "4.42",
+    "ms": 4420,
+    "details": "B2 F2 D B F' R2 B' F D B2 F2 (Ub-perm, AUF = noAuf, block on LF)",
+    "index": 25,
+    "pll": "Ub"
+  },
+  {
+    "time": "8.15",
+    "ms": 8150,
+    "details": "D' F' U' F2 D B R2 B2 D' F' D B' U2 B2 (Jb-perm, AUF = noAuf, block on FR)",
+    "index": 26,
+    "pll": "Jb"
+  },
+  {
+    "time": "7.38",
+    "ms": 7380,
+    "details": "R2 U2 B2 D B2 D' R2 U B2 U2 B2 R2 U R2 (F-perm, AUF = U', block on LF)",
+    "index": 27,
+    "pll": "F"
+  },
+  {
+    "time": "5.84",
+    "ms": 5840,
+    "details": "F2 R2 U R2 D R2 U' R D' R F2 L' U L (Gb-perm, AUF = U', block on FR)",
+    "index": 28,
+    "pll": "Gb"
+  },
+  {
+    "time": "6.84",
+    "ms": 6840,
+    "details": "B' L' B' R B L R' U R' F R' F' R2 U2 B (E-perm, AUF = U, block on FR)",
+    "index": 29,
+    "pll": "E"
+  },
+  {
+    "time": "6.89",
+    "ms": 6890,
+    "details": "L2 F2 B2 D' L D L' F2 R U' R' U B2 L2 (Ga-perm, AUF = noAuf, block on BL)",
+    "index": 30,
+    "pll": "Ga"
+  },
+  {
+    "time": "4.23",
+    "ms": 4230,
+    "details": "R2 U2 R2 U D B2 U F2 D2 B2 D2 F2 D' (H-perm, AUF = noAuf, block on BL)",
+    "index": 31,
+    "pll": "H"
+  },
+  {
+    "time": "4.64",
+    "ms": 4640,
+    "details": "R' U' R U R B' R2 U R U' B L U' L' (T-perm, AUF = U2, block on FR)",
+    "index": 32,
+    "pll": "T"
+  },
+  {
+    "time": "6.17",
+    "ms": 6170,
+    "details": "L2 B2 U R2 B2 U B2 R2 F2 R2 D F2 D' B2 D (Gb-perm, AUF = U, block on FR)",
+    "index": 33,
+    "pll": "Gb"
+  },
+  {
+    "time": "6.11",
+    "ms": 6110,
+    "details": "D' L2 F2 L B L' F2 L B' L U2 D (Aa-perm, AUF = U2, block on LF)",
+    "index": 34,
+    "pll": "Aa"
+  },
+  {
+    "time": "6.41",
+    "ms": 6410,
+    "details": "R2 U' F2 D' L2 U' F2 D2 F2 U B2 D' L2 F2 (Ja-perm, AUF = U2, block on LF)",
+    "index": 35,
+    "pll": "Ja"
+  },
+  {
+    "time": "5.33",
+    "ms": 5330,
+    "details": "B' D2 F U' F' U2 L2 D' B' D L2 U' D2 B (F-perm, AUF = noAuf, block on LF)",
+    "index": 36,
+    "pll": "F"
+  },
+  {
+    "time": "7.98",
+    "ms": 7980,
+    "details": "R2 U B2 D' L2 D B2 R2 U' F2 U R2 U' R2 (E-perm, AUF = noAuf, block on BL)",
+    "index": 37,
+    "pll": "E"
+  },
+  {
+    "time": "5.45",
+    "ms": 5450,
+    "details": "R' L' U2 R' D' R U2 R' D R2 L (Ab-perm, AUF = noAuf, block on BL)",
+    "index": 38,
+    "pll": "Ab"
+  },
+  {
+    "time": "6.01",
+    "ms": 6010,
+    "details": "F2 U L2 U' L2 F2 U' F2 D F2 U2 D' (Ab-perm, AUF = U', block on FR)",
+    "index": 39,
+    "pll": "Ab"
+  },
+  {
+    "time": "7.11",
+    "ms": 7110,
+    "details": "D L2 F2 R2 U F L2 D' B' L2 F U L2 B' (Gb-perm, AUF = noAuf, block on LF)",
+    "index": 40,
+    "pll": "Gb"
+  },
+  {
+    "time": "5.73",
+    "ms": 5730,
+    "details": "R2 U F2 U F2 U' B D' B L2 B' D B' R2 F2 (Gb-perm, AUF = U', block on BL)",
+    "index": 41,
+    "pll": "Gb"
+  },
+  {
+    "time": "8.08",
+    "ms": 8080,
+    "details": "F' U2 R U2 D2 F U F' D2 L' U R' U' L F (E-perm, AUF = U', block on BL)",
+    "index": 42,
+    "pll": "E"
+  },
+  {
+    "time": "9.66",
+    "ms": 9660,
+    "details": "R L F L' B L F' R' L' F R B' R' F' (E-perm, AUF = noAuf, block on BL)",
+    "index": 43,
+    "pll": "E"
+  },
+  {
+    "time": "6.75",
+    "ms": 6750,
+    "details": "F2 D2 F2 L2 U B2 L2 U2 F2 R2 D' F2 L2 U2 L2 (Nb-perm, AUF = U, block on BL)",
+    "index": 44,
+    "pll": "Nb"
+  },
+  {
+    "time": "5.37",
+    "ms": 5370,
+    "details": "B2 D F D F' D' F' D' R2 F' D F R2 B2 (Jb-perm, AUF = U, block on BL)",
+    "index": 45,
+    "pll": "Jb"
+  },
+  {
+    "time": "4.81",
+    "ms": 4810,
+    "details": "L2 B2 D' R2 D B2 L2 F2 D R2 U' R2 D' (Ub-perm, AUF = U, block on FR)",
+    "index": 46,
+    "pll": "Ub"
+  },
+  {
+    "time": "6.52",
+    "ms": 6520,
+    "details": "F2 L2 D' B2 D' R2 B2 D L2 U L2 D L2 (Ub-perm, AUF = U, block on RB)",
+    "index": 47,
+    "pll": "Ub"
+  },
+  {
+    "time": "7.28",
+    "ms": 7280,
+    "details": "F2 L' F R' F' L2 F R F' L' F2 (Ab-perm, AUF = noAuf, block on LF)",
+    "index": 48,
+    "pll": "Ab"
+  },
+  {
+    "time": "7.06",
+    "ms": 7060,
+    "details": "L' U2 L B' L' U' B2 U L' B2 L U' B2 L B (Rb-perm, AUF = U2, block on LF)",
+    "index": 49,
+    "pll": "Rb"
+  },
+  {
+    "time": "8.16",
+    "ms": 8160,
+    "details": "B U F' U' L2 F L2 F' U F U' F B' U2 F' (Ra-perm, AUF = U, block on BL)",
+    "index": 50,
+    "pll": "Ra"
+  },
+  {
+    "time": "6.89",
+    "ms": 6890,
+    "details": "L2 U2 B2 D' B2 U' B' D' F U2 F' D B' D B2 (Ga-perm, AUF = U', block on FR)",
+    "index": 51,
+    "pll": "Ga"
+  },
+  {
+    "time": "6.09",
+    "ms": 6090,
+    "details": "B2 U L2 U L2 U' L2 U L2 U2 B2 U' L2 U' L2 (Rb-perm, AUF = U, block on LF)",
+    "index": 52,
+    "pll": "Rb"
+  },
+  {
+    "time": "7.21",
+    "ms": 7210,
+    "details": "B2 D F2 U2 D' L2 B D F' D2 B D' F' U' D2 (Ga-perm, AUF = U, block on LF)",
+    "index": 53,
+    "pll": "Ga"
+  },
+  {
+    "time": "7.90",
+    "ms": 7900,
+    "details": "R L U2 R' L' D2 F' U B' U2 F U' B D2 (Gb-perm, AUF = U2, block on LF)",
+    "index": 54,
+    "pll": "Gb"
+  },
+  {
+    "time": "6.68",
+    "ms": 6680,
+    "details": "D' B2 U' B2 U2 D L2 U B U B' L2 B U' B' (Y-perm, AUF = U, block on BL)",
+    "index": 55,
+    "pll": "Y"
+  },
+  {
+    "time": "7.92",
+    "ms": 7920,
+    "details": "D R2 B2 R F R' B2 R F' R U' D' (Aa-perm, AUF = U, block on FR)",
+    "index": 56,
+    "pll": "Aa"
+  },
+  {
+    "time": "4.53",
+    "ms": 4530,
+    "details": "L2 F D' B' U D' R2 U' D B' D F' L2 (Ua-perm, AUF = noAuf, block on RB)",
+    "index": 57,
+    "pll": "Ua"
+  },
+  {
+    "time": "6.52",
+    "ms": 6520,
+    "details": "R2 D B2 L2 D2 R2 D R2 D L2 U2 B2 D' R2 (Na-perm, AUF = U', block on LF)",
+    "index": 58,
+    "pll": "Na"
+  },
+  {
+    "time": "12.57",
+    "ms": 12570,
+    "details": "B F' R U2 D2 R' U2 D2 R B' F D2 (Z-perm, AUF = U, block on LF)",
+    "index": 59,
+    "pll": "Z"
+  },
+  {
+    "time": "6.31",
+    "ms": 6310,
+    "details": "F2 R2 U' B2 F D' F D B2 F' U R2 F U' F (F-perm, AUF = U, block on LF)",
+    "index": 60,
+    "pll": "F"
+  },
+  {
+    "time": "7.44",
+    "ms": 7440,
+    "details": "L2 R2 B F' L B2 F2 R' U2 D2 R' B F' (Z-perm, AUF = U, block on FR)",
+    "index": 61,
+    "pll": "Z"
+  },
+  {
+    "time": "5.57",
+    "ms": 5570,
+    "details": "R L' B2 R L B2 R2 U B' F' U2 B F (H-perm, AUF = U', block on LF)",
+    "index": 62,
+    "pll": "H"
+  },
+  {
+    "time": "5.16",
+    "ms": 5160,
+    "details": "F2 L2 R2 B2 D2 L2 R2 U' L2 R2 D' L2 R2 (Z-perm, AUF = noAuf, block on RB)",
+    "index": 63,
+    "pll": "Z"
+  },
+  {
+    "time": "6.06",
+    "ms": 6060,
+    "details": "F' L' F R' U2 L U L' U2 R U' F' L F (Jb-perm, AUF = U, block on LF)",
+    "index": 64,
+    "pll": "Jb"
+  },
+  {
+    "time": "10.19",
+    "ms": 10190,
+    "details": "D2 F R' F L2 F' R F L2 F2 U D2 (Aa-perm, AUF = U', block on FR)",
+    "index": 65,
+    "pll": "Aa"
+  },
+  {
+    "time": "7.18",
+    "ms": 7180,
+    "details": "R2 U F2 U F2 U' B D' B L2 B' D B' R2 F2 (Gb-perm, AUF = U', block on BL)",
+    "index": 66,
+    "pll": "Gb"
+  },
+  {
+    "time": "6.93",
+    "ms": 6930,
+    "details": "R U2 R2 D R2 U2 L' B2 R L D' R2 (Ub-perm, AUF = U2, block on LF)",
+    "index": 67,
+    "pll": "Ub"
+  },
+  {
+    "time": "5.18",
+    "ms": 5180,
+    "details": "R2 F2 R2 L' U L' B2 R D' L B2 R' L (F-perm, AUF = U', block on BL)",
+    "index": 68,
+    "pll": "F"
+  },
+  {
+    "time": "6.63",
+    "ms": 6630,
+    "details": "L2 U2 L F' L B2 L' F L B2 U' L2 U' L2 (Gb-perm, AUF = U2, block on RB)",
+    "index": 69,
+    "pll": "Gb"
+  },
+  {
+    "time": "4.88",
+    "ms": 4880,
+    "details": "R' B' U D' R U2 R' U' D B U2 R (Ub-perm, AUF = noAuf, block on LF)",
+    "index": 70,
+    "pll": "Ub"
+  },
+  {
+    "time": "4.74",
+    "ms": 4740,
+    "details": "F B' U F' L2 D2 R2 B' D2 L2 U F' B (Ua-perm, AUF = noAuf, block on RB)",
+    "index": 71,
+    "pll": "Ua"
+  },
+  {
+    "time": "6.91",
+    "ms": 6910,
+    "details": "L' U F' U' L2 D2 R' B' R D2 L' U F (Ra-perm, AUF = U', block on BL)",
+    "index": 72,
+    "pll": "Ra"
+  },
+  {
+    "time": "3.15",
+    "ms": 3150,
+    "details": "F2 R D' L' U D' B2 U' D L' D R' F2 (Ua-perm, AUF = noAuf, block on BL)",
+    "index": 73,
+    "pll": "Ua"
+  },
+  {
+    "time": "6.48",
+    "ms": 6480,
+    "details": "F2 D B2 L2 U B2 U2 R2 U' B2 U' L2 U' B2 D' (Ga-perm, AUF = U2, block on BL)",
+    "index": 74,
+    "pll": "Ga"
+  },
+  {
+    "time": "6.24",
+    "ms": 6240,
+    "details": "F' U B' U2 F U' B U L R U2 L' R' (Ga-perm, AUF = U', block on FR)",
+    "index": 75,
+    "pll": "Ga"
+  },
+  {
+    "time": "4.53",
+    "ms": 4530,
+    "details": "B' U' B2 L' D L' D' F' L' F L' B' (Ua-perm, AUF = U', block on BL)",
+    "index": 76,
+    "pll": "Ua"
+  },
+  {
+    "time": "5.61",
+    "ms": 5610,
+    "details": "B U F B' R U' R' B U' B' R U R' F' (T-perm, AUF = U', block on BL)",
+    "index": 77,
+    "pll": "T"
+  },
+  {
+    "time": "6.13",
+    "ms": 6130,
+    "details": "F2 R2 F2 U R' U L' F2 D2 L' B2 D2 F2 U' L (Ra-perm, AUF = U2, block on LF)",
+    "index": 78,
+    "pll": "Ra"
+  },
+  {
+    "time": "4.14",
+    "ms": 4140,
+    "details": "F2 U R L U2 R' L F2 L2 U' F2 (Ub-perm, AUF = noAuf, block on BL)",
+    "index": 79,
+    "pll": "Ub"
+  },
+  {
+    "time": "5.62",
+    "ms": 5620,
+    "details": "B2 U D2 F2 U R2 U D2 B2 D F2 L2 D' (Aa-perm, AUF = U, block on LF)",
+    "index": 80,
+    "pll": "Aa"
+  },
+  {
+    "time": "6.88",
+    "ms": 6880,
+    "details": "F2 R' B' R B F' R B' F' R B R' (Z-perm, AUF = U', block on FR)",
+    "index": 81,
+    "pll": "Z"
+  },
+  {
+    "time": "6.34",
+    "ms": 6340,
+    "details": "D R' F' R B2 R' F R' D2 F2 U L2 D F2 R2 (Gc-perm, AUF = U, block on RB)",
+    "index": 82,
+    "pll": "Gc"
+  },
+  {
+    "time": "5.75",
+    "ms": 5750,
+    "details": "F' U' F R2 U R2 D' F' U F D R2 U' R2 (T-perm, AUF = U, block on BL)",
+    "index": 83,
+    "pll": "T"
+  },
+  {
+    "time": "5.92",
+    "ms": 5920,
+    "details": "F2 R U2 R2 F2 L D2 L2 D2 F2 R U2 F2 L2 (Na-perm, AUF = U2, block on BL)",
+    "index": 84,
+    "pll": "Na"
+  },
+  {
+    "time": "9.00",
+    "ms": 9000,
+    "details": "L2 U2 F2 U F' B D2 R2 F B U' R2 U2 B2 D2 (Nb-perm, AUF = U, block on RB)",
+    "index": 85,
+    "pll": "Nb"
+  },
+  {
+    "time": "4.90",
+    "ms": 4900,
+    "details": "R2 D2 L D L2 D' L' D' R' B2 R D' R2 (Ua-perm, AUF = noAuf, block on FR)",
+    "index": 86,
+    "pll": "Ua"
+  },
+  {
+    "time": "8.67",
+    "ms": 8670,
+    "details": "F U F R2 L2 B' D' B' D2 B2 R2 L2 F2 (Ua-perm, AUF = U2, block on LF)",
+    "index": 87,
+    "pll": "Ua"
+  },
+  {
+    "time": "6.91",
+    "ms": 6910,
+    "details": "D L2 U' F2 U F2 L2 U L2 D' L2 (Aa-perm, AUF = U', block on FR)",
+    "index": 88,
+    "pll": "Aa"
+  },
+  {
+    "time": "6.63",
+    "ms": 6630,
+    "details": "F B D2 F' U' F D2 F' U B' (Ab-perm, AUF = noAuf, block on RB)",
+    "index": 89,
+    "pll": "Ab"
+  },
+  {
+    "time": "6.89",
+    "ms": 6890,
+    "details": "F U F R2 L2 B' D' B' D2 B2 R2 L2 F2 (Ua-perm, AUF = U2, block on LF)",
+    "index": 90,
+    "pll": "Ua"
+  },
+  {
+    "time": "4.71",
+    "ms": 4710,
+    "details": "F U' B' R2 F' U2 L2 F' D B' D' B D2 L2 F (F-perm, AUF = U, block on FR)",
+    "index": 91,
+    "pll": "F"
+  },
+  {
+    "time": "5.07",
+    "ms": 5070,
+    "details": "B2 L2 R2 F2 D2 L2 R2 U L2 R2 D L2 R2 (Z-perm, AUF = noAuf, block on FR)",
+    "index": 92,
+    "pll": "Z"
+  },
+  {
+    "time": "4.60",
+    "ms": 4600,
+    "details": "F2 B2 R' L' D2 R L F' B' U2 F' B' (H-perm, AUF = noAuf, block on BL)",
+    "index": 93,
+    "pll": "H"
+  },
+  {
+    "time": "7.59",
+    "ms": 7590,
+    "details": "B2 F R2 D B R2 F' U' R2 B' F2 D F2 R2 B2 (Gd-perm, AUF = U', block on LF)",
+    "index": 94,
+    "pll": "Gd"
+  },
+  {
+    "time": "6.02",
+    "ms": 6020,
+    "details": "F2 U2 R2 D2 B2 D' R2 U' R2 B2 D' R2 U F2 (Ab-perm, AUF = U2, block on BL)",
+    "index": 95,
+    "pll": "Ab"
+  },
+  {
+    "time": "4.74",
+    "ms": 4740,
+    "details": "R2 B2 R2 U' R' D L D L2 D' L' D' R (H-perm, AUF = U', block on BL)",
+    "index": 96,
+    "pll": "H"
+  },
+  {
+    "time": "4.80",
+    "ms": 4800,
+    "details": "B U B' R' U F' U' F2 R F' U' F' U F (T-perm, AUF = U2, block on RB)",
+    "index": 97,
+    "pll": "T"
+  },
+  {
+    "time": "6.10",
+    "ms": 6100,
+    "details": "R B R' F2 R B' R' U2 F2 D' L2 U' L2 D (Y-perm, AUF = U2, block on LF)",
+    "index": 98,
+    "pll": "Y"
+  },
+  {
+    "time": "6.00",
+    "ms": 6000,
+    "details": "D' R2 U' B2 D2 L2 D F2 D' L2 F2 U2 F2 D' B2 (V-perm, AUF = U2, block on FR)",
+    "index": 99,
+    "pll": "V"
+  },
+  {
+    "time": "6.24",
+    "ms": 6240,
+    "details": "B L2 B2 F2 D' F' R2 B U R2 F' U' B2 L2 B2 (Gd-perm, AUF = U', block on LF)",
+    "index": 100,
+    "pll": "Gd"
+  },
+  {
+    "time": "5.85",
+    "ms": 5850,
+    "details": "R2 U B2 U B2 U R2 D B2 U2 D' B2 (Ub-perm, AUF = U, block on FR)",
+    "index": 101,
+    "pll": "Ub"
+  },
+  {
+    "time": "38.17",
+    "ms": 38170,
+    "details": "F2 U F2 D' L2 U' B2 U' L2 U L2 D' B2 D2 L2 (Na-perm, AUF = U', block on RB)",
+    "index": 102,
+    "pll": "Na"
+  },
+  {
+    "time": "8.13",
+    "ms": 8130,
+    "details": "R2 U' D2 F2 D2 R2 D' R2 U F2 R2 U2 R2 D R2 (E-perm, AUF = U2, block on LF)",
+    "index": 103,
+    "pll": "E"
+  },
+  {
+    "time": "7.87",
+    "ms": 7870,
+    "details": "L2 U2 L2 U2 L2 U L2 U2 L2 U2 L2 (H-perm, AUF = U', block on FR)",
+    "index": 104,
+    "pll": "H"
+  },
+  {
+    "time": "5.67",
+    "ms": 5670,
+    "details": "R' F' U' F2 R' F' R' B' D B' D' B2 R' (Ua-perm, AUF = U', block on FR)",
+    "index": 105,
+    "pll": "Ua"
+  },
+  {
+    "time": "8.33",
+    "ms": 8330,
+    "details": "R U' L D2 L' U R' L U' R D2 R' U L' (E-perm, AUF = noAuf, block on LF)",
+    "index": 106,
+    "pll": "E"
+  },
+  {
+    "time": "6.70",
+    "ms": 6700,
+    "details": "D F R' F L2 F' R F L2 F2 U2 D' (Aa-perm, AUF = U2, block on LF)",
+    "index": 107,
+    "pll": "Aa"
+  },
+  {
+    "time": "6.68",
+    "ms": 6680,
+    "details": "L2 U' F D' B U2 B' D F D R2 D' F2 U2 L2 (Gb-perm, AUF = U', block on FR)",
+    "index": 108,
+    "pll": "Gb"
+  },
+  {
+    "time": "7.94",
+    "ms": 7940,
+    "details": "F B' R' F L2 F B2 L' F2 B2 R B D2 F' (Z-perm, AUF = U, block on RB)",
+    "index": 109,
+    "pll": "Z"
+  },
+  {
+    "time": "6.33",
+    "ms": 6330,
+    "details": "D2 R2 U' B2 U B2 R2 U2 D' F2 D' F2 (Aa-perm, AUF = U2, block on RB)",
+    "index": 110,
+    "pll": "Aa"
+  },
+  {
+    "time": "6.19",
+    "ms": 6190,
+    "details": "R2 D' F D F' R2 U' F2 U B U' B' U' F2 (Jb-perm, AUF = U, block on FR)",
+    "index": 111,
+    "pll": "Jb"
+  },
+  {
+    "time": "5.09",
+    "ms": 5090,
+    "details": "B2 R B' D2 B' U' B D2 B R' B2 U' R U2 R' (Y-perm, AUF = U', block on LF)",
+    "index": 112,
+    "pll": "Y"
+  },
+  {
+    "time": "12.24",
+    "ms": 12240,
+    "details": "L R U2 L' U L U2 D2 R' U2 R D2 R' U L' (Ga-perm, AUF = U2, block on RB)",
+    "index": 113,
+    "pll": "Ga"
+  },
+  {
+    "time": "6.28",
+    "ms": 6280,
+    "details": "L2 U' L2 U' L' D R' D' F2 L2 F2 D R D' L' (Y-perm, AUF = U, block on LF)",
+    "index": 114,
+    "pll": "Y"
+  },
+  {
+    "time": "5.50",
+    "ms": 5500,
+    "details": "L2 U2 L2 F2 U B F L2 B' F' L2 U L2 U2 F2 (V-perm, AUF = U, block on LF)",
+    "index": 115,
+    "pll": "V"
+  },
+  {
+    "time": "37.69",
+    "ms": 37690,
+    "details": "F U L F' U F2 U' F' L' U' F' U2 L' U L (Gd-perm, AUF = U', block on RB)",
+    "index": 116,
+    "pll": "Gd"
+  },
+  {
+    "time": "4.72",
+    "ms": 4720,
+    "details": "R2 U' R2 F2 B D' B L2 B' D F2 B' U R2 (T-perm, AUF = U', block on BL)",
+    "index": 117,
+    "pll": "T"
+  },
+  {
+    "time": "7.68",
+    "ms": 7680,
+    "details": "R U B2 R2 F R F' R2 B2 R' U B U B' R' (Rb-perm, AUF = U2, block on LF)",
+    "index": 118,
+    "pll": "Rb"
+  },
+  {
+    "time": "4.51",
+    "ms": 4510,
+    "details": "R2 U D L2 D' B2 D' F2 B2 U' R2 D L2 U2 B2 (Y-perm, AUF = U, block on RB)",
+    "index": 119,
+    "pll": "Y"
+  },
+  {
+    "time": "7.58",
+    "ms": 7580,
+    "details": "R' F' R B' U2 F U F' U2 B U' R' F R (Jb-perm, AUF = U, block on FR)",
+    "index": 120,
+    "pll": "Jb"
+  },
+  {
+    "time": "5.55",
+    "ms": 5550,
+    "details": "D L' B L' F2 L B' L' F2 L2 U D' (Ab-perm, AUF = U', block on FR)",
+    "index": 121,
+    "pll": "Ab"
+  },
+  {
+    "time": "6.10",
+    "ms": 6100,
+    "details": "B2 U B2 U2 L2 U' B2 R2 U L2 D' F2 U2 R2 D (Rb-perm, AUF = noAuf, block on LF)",
+    "index": 122,
+    "pll": "Rb"
+  },
+  {
+    "time": "7.77",
+    "ms": 7770,
+    "details": "L B U2 D' R' B R U D L' U L U B' L2 (Ga-perm, AUF = U', block on FR)",
+    "index": 123,
+    "pll": "Ga"
+  },
+  {
+    "time": "6.78",
+    "ms": 6780,
+    "details": "L R U2 D2 R D L' B2 L D' R' D2 L' R' (Ga-perm, AUF = U2, block on FR)",
+    "index": 124,
+    "pll": "Ga"
+  },
+  {
+    "time": "6.24",
+    "ms": 6240,
+    "details": "F' U B' U' F R2 F R2 F' U2 F' U' B U' F (V-perm, AUF = U', block on BL)",
+    "index": 125,
+    "pll": "V"
+  },
+  {
+    "time": "4.57",
+    "ms": 4570,
+    "details": "F U' F' U' R U2 R2 U F U' F' U' R2 U' R' (Y-perm, AUF = U, block on RB)",
+    "index": 126,
+    "pll": "Y"
+  },
+  {
+    "time": "4.48",
+    "ms": 4480,
+    "details": "R' U L' U2 R U' L F U' B U2 F' U B' (T-perm, AUF = U, block on LF)",
+    "index": 127,
+    "pll": "T"
+  },
+  {
+    "time": "4.59",
+    "ms": 4590,
+    "details": "B' R' B L' U2 R U R' U2 L U' B' R B (Jb-perm, AUF = U, block on RB)",
+    "index": 128,
+    "pll": "Jb"
+  },
+  {
+    "time": "5.89",
+    "ms": 5890,
+    "details": "L' B2 U L U2 R' U' F2 L2 R' D2 L2 F2 R2 (Gc-perm, AUF = U2, block on FR)",
+    "index": 129,
+    "pll": "Gc"
+  },
+  {
+    "time": "5.61",
+    "ms": 5610,
+    "details": "R' U L' D2 L U' R U' R' L' D2 R L (Aa-perm, AUF = U, block on LF)",
+    "index": 130,
+    "pll": "Aa"
+  },
+  {
+    "time": "5.77",
+    "ms": 5770,
+    "details": "R U B' D2 F L' F' D2 B2 U' R' U B' (Rb-perm, AUF = U', block on BL)",
+    "index": 131,
+    "pll": "Rb"
+  },
+  {
+    "time": "6.92",
+    "ms": 6920,
+    "details": "R' F' L' F R F' B' R' B L B' R F B (E-perm, AUF = noAuf, block on RB)",
+    "index": 132,
+    "pll": "E"
+  },
+  {
+    "time": "9.14",
+    "ms": 9140,
+    "details": "L U' L2 F2 D' R B2 R' D F2 L2 U L' (Na-perm, AUF = U, block on RB)",
+    "index": 133,
+    "pll": "Na"
+  },
+  {
+    "time": "6.92",
+    "ms": 6920,
+    "details": "B2 D2 F2 D2 B2 U' F' B' R2 F2 R2 F B (H-perm, AUF = U, block on BL)",
+    "index": 134,
+    "pll": "H"
+  },
+  {
+    "time": "7.51",
+    "ms": 7510,
+    "details": "B U' B' U2 B2 F D2 B' U' B D2 B2 U F' (Y-perm, AUF = U2, block on FR)",
+    "index": 135,
+    "pll": "Y"
+  },
+  {
+    "time": "5.86",
+    "ms": 5860,
+    "details": "R B U' B2 R B2 L' B2 D B' L' D' L2 B2 R2 (Ga-perm, AUF = U, block on FR)",
+    "index": 136,
+    "pll": "Ga"
+  },
+  {
+    "time": "6.76",
+    "ms": 6760,
+    "details": "B2 R2 B' U' L F U F' L2 B L R2 B2 (Gb-perm, AUF = noAuf, block on RB)",
+    "index": 137,
+    "pll": "Gb"
+  },
+  {
+    "time": "5.90",
+    "ms": 5900,
+    "details": "R D' F' R U F R2 D2 L B' L2 B L D' (Jb-perm, AUF = noAuf, block on RB)",
+    "index": 138,
+    "pll": "Jb"
+  },
+  {
+    "time": "9.98",
+    "ms": 9980,
+    "details": "B' U' B U' L' U2 L' F L U2 L' F' L2 (Jb-perm, AUF = U, block on LF)",
+    "index": 139,
+    "pll": "Jb"
+  },
+  {
+    "time": "8.31",
+    "ms": 8310,
+    "details": "R2 U' L' D' L F2 L' D L' B2 R2 B2 L2 U R2 (Rb-perm, AUF = U, block on RB)",
+    "index": 140,
+    "pll": "Rb"
+  },
+  {
+    "time": "9.09",
+    "ms": 9090,
+    "details": "L U' L2 D R F2 R2 D R' D L B2 D' R2 D2 (Na-perm, AUF = U2, block on RB)",
+    "index": 141,
+    "pll": "Na"
+  },
+  {
+    "time": "6.01",
+    "ms": 6010,
+    "details": "B2 D2 L' F2 L2 D R D' L' D2 R2 D' R' D B2 (Rb-perm, AUF = U, block on BL)",
+    "index": 142,
+    "pll": "Rb"
+  },
+  {
+    "time": "6.40",
+    "ms": 6400,
+    "details": "L2 R2 U' L R' U2 D2 L R' D B2 F2 D (Z-perm, AUF = U', block on FR)",
+    "index": 143,
+    "pll": "Z"
+  },
+  {
+    "time": "6.71",
+    "ms": 6710,
+    "details": "D' F' L F' R2 F L' F' R2 F2 D (Ab-perm, AUF = noAuf, block on BL)",
+    "index": 144,
+    "pll": "Ab"
+  },
+  {
+    "time": "6.38",
+    "ms": 6380,
+    "details": "L R U2 D2 R D L' B2 L D' R' D2 L' R' (Ga-perm, AUF = U2, block on FR)",
+    "index": 145,
+    "pll": "Ga"
+  },
+  {
+    "time": "5.56",
+    "ms": 5560,
+    "details": "R F2 R2 L2 B2 R' U2 D' F2 R2 L2 B2 D2 (H-perm, AUF = U, block on BL)",
+    "index": 146,
+    "pll": "H"
+  },
+  {
+    "time": "8.45",
+    "ms": 8450,
+    "details": "R2 U' R2 D L2 U' B2 R2 D F2 D' R2 U B2 D' (E-perm, AUF = U, block on LF)",
+    "index": 147,
+    "pll": "E"
+  },
+  {
+    "time": "6.07",
+    "ms": 6070,
+    "details": "B2 R2 U B2 U' R2 U B2 D' R2 U D (Aa-perm, AUF = U2, block on LF)",
+    "index": 148,
+    "pll": "Aa"
+  },
+  {
+    "time": "7.56",
+    "ms": 7560,
+    "details": "R2 B2 F2 R2 D' F' U F' L2 B D' B' R2 F2 D (Rb-perm, AUF = U', block on LF)",
+    "index": 149,
+    "pll": "Rb"
+  },
+  {
+    "time": "8.43",
+    "ms": 8430,
+    "details": "B' L B D2 F2 R F D' F U2 F' D R' F D2 (Na-perm, AUF = noAuf, block on BL)",
+    "index": 150,
+    "pll": "Na"
+  },
+  {
+    "time": "5.50",
+    "ms": 5500,
+    "details": "D' F2 U2 L2 U R2 U2 F2 D R2 U F2 B2 U R2 (Y-perm, AUF = U2, block on BL)",
+    "index": 151,
+    "pll": "Y"
+  },
+  {
+    "time": "8.35",
+    "ms": 8350,
+    "details": "B2 F2 U' R2 L2 D R L' U2 D2 R L' (Z-perm, AUF = noAuf, block on LF)",
+    "index": 152,
+    "pll": "Z"
+  },
+  {
+    "time": "8.35",
+    "ms": 8350,
+    "details": "F U F D' R' D F' U' D' F' U F R D F' (E-perm, AUF = U', block on RB)",
+    "index": 153,
+    "pll": "E"
+  },
+  {
+    "time": "7.03",
+    "ms": 7030,
+    "details": "R U R2 D' F2 L D R' D2 L D L2 D R2 (Ja-perm, AUF = U2, block on LF)",
+    "index": 154,
+    "pll": "Ja"
+  },
+  {
+    "time": "5.34",
+    "ms": 5340,
+    "details": "L U2 L' F L U F2 D' B L2 B' D F2 L' F' (Gb-perm, AUF = U', block on FR)",
+    "index": 155,
+    "pll": "Gb"
+  },
+  {
+    "time": "5.79",
+    "ms": 5790,
+    "details": "B' L B2 L' B' L' D F L' U' F' L2 U2 D' (Jb-perm, AUF = U2, block on BL)",
+    "index": 156,
+    "pll": "Jb"
+  },
+  {
+    "time": "10.54",
+    "ms": 10540,
+    "details": "R2 U B2 D2 B U F' D2 F U' B U' R2 U' F2 (E-perm, AUF = U, block on BL)",
+    "index": 157,
+    "pll": "E"
+  },
+  {
+    "time": "5.37",
+    "ms": 5370,
+    "details": "F' U R' F2 L' U L F2 R2 D R D' R2 U' F (V-perm, AUF = noAuf, block on FR)",
+    "index": 158,
+    "pll": "V"
+  },
+  {
+    "time": "6.69",
+    "ms": 6690,
+    "details": "L' B2 L B' U2 R U B U' R' U B2 U B (Ja-perm, AUF = noAuf, block on LF)",
+    "index": 159,
+    "pll": "Ja"
+  },
+  {
+    "time": "7.23",
+    "ms": 7230,
+    "details": "F2 U' D' F2 D F B' D2 L2 F' B' U' B2 D2 R2 (Na-perm, AUF = U', block on BL)",
+    "index": 160,
+    "pll": "Na"
+  },
+  {
+    "time": "6.56",
+    "ms": 6560,
+    "details": "D L F' L B2 L' F L B2 L2 U2 D' (Aa-perm, AUF = U2, block on BL)",
+    "index": 161,
+    "pll": "Aa"
+  },
+  {
+    "time": "6.41",
+    "ms": 6410,
+    "details": "D L' B L' F2 L B' L' F2 L2 U D' (Ab-perm, AUF = U', block on FR)",
+    "index": 162,
+    "pll": "Ab"
+  },
+  {
+    "time": "5.65",
+    "ms": 5650,
+    "details": "B' R' F R' F R F2 R B U' F U' F' (Ua-perm, AUF = U2, block on LF)",
+    "index": 163,
+    "pll": "Ua"
+  },
+  {
+    "time": "11.19",
+    "ms": 11190,
+    "details": "R2 D' L2 U R2 D' B2 L2 D R2 U' F2 D R2 (E-perm, AUF = noAuf, block on FR)",
+    "index": 164,
+    "pll": "E"
+  },
+  {
+    "time": "6.22",
+    "ms": 6220,
+    "details": "D B2 R2 U L2 D' F2 D L2 D' R2 (Aa-perm, AUF = U', block on BL)",
+    "index": 165,
+    "pll": "Aa"
+  },
+  {
+    "time": "6.50",
+    "ms": 6500,
+    "details": "L2 F2 U D R2 U2 D B2 R2 U2 R2 U R2 D2 F2 (Na-perm, AUF = U, block on BL)",
+    "index": 166,
+    "pll": "Na"
+  },
+  {
+    "time": "6.85",
+    "ms": 6850,
+    "details": "F2 U2 B2 L2 U' R2 F2 L2 B2 D2 L2 D' B2 D2 R2 (V-perm, AUF = U, block on BL)",
+    "index": 167,
+    "pll": "V"
+  },
+  {
+    "time": "7.41",
+    "ms": 7410,
+    "details": "F2 U2 L2 F2 B2 D' R2 B2 U2 L2 B2 D B2 U2 L2 (Nb-perm, AUF = U, block on RB)",
+    "index": 168,
+    "pll": "Nb"
+  },
+  {
+    "time": "5.68",
+    "ms": 5680,
+    "details": "D' R B' R F2 R' B R F2 R2 U D (Aa-perm, AUF = U', block on RB)",
+    "index": 169,
+    "pll": "Aa"
+  },
+  {
+    "time": "8.05",
+    "ms": 8050,
+    "details": "B2 R2 U B2 D' B2 D L2 U' L2 R2 B2 (Ga-perm, AUF = noAuf, block on RB)",
+    "index": 170,
+    "pll": "Ga"
+  },
+  {
+    "time": "5.98",
+    "ms": 5980,
+    "details": "R' U2 L' R2 D B' D' L U B U' B2 R' B (Ja-perm, AUF = U2, block on FR)",
+    "index": 171,
+    "pll": "Ja"
+  },
+  {
+    "time": "6.03",
+    "ms": 6030,
+    "details": "R' U L' U2 R U' L U F B U2 F' B' (Ga-perm, AUF = U', block on RB)",
+    "index": 172,
+    "pll": "Ga"
+  },
+  {
+    "time": "8.01",
+    "ms": 8010,
+    "details": "L B F2 D' B2 R B2 D F2 L2 B' L' U' L2 (F-perm, AUF = U, block on LF)",
+    "index": 173,
+    "pll": "F"
+  },
+  {
+    "time": "7.40",
+    "ms": 7400,
+    "details": "F U F2 L F2 U' F' L2 B' U B L2 U2 L' (V-perm, AUF = U2, block on FR)",
+    "index": 174,
+    "pll": "V"
+  },
+  {
+    "time": "6.42",
+    "ms": 6420,
+    "details": "L2 U R L2 D' L2 D F2 R' U' R F2 R' L2 (Ja-perm, AUF = U', block on LF)",
+    "index": 175,
+    "pll": "Ja"
+  },
+  {
+    "time": "4.61",
+    "ms": 4610,
+    "details": "F' R F2 R' F' R' D B R' U' B' R2 U' D' (Jb-perm, AUF = U, block on LF)",
+    "index": 176,
+    "pll": "Jb"
+  },
+  {
+    "time": "6.07",
+    "ms": 6070,
+    "details": "L2 U' L2 D' B2 U2 D' B2 D2 F2 L2 U L2 U F2 (F-perm, AUF = U2, block on FR)",
+    "index": 177,
+    "pll": "F"
+  },
+  {
+    "time": "6.63",
+    "ms": 6630,
+    "details": "B' F' U2 B F U2 L R U2 L' R' (H-perm, AUF = U2, block on FR)",
+    "index": 178,
+    "pll": "H"
+  },
+  {
+    "time": "33.89",
+    "ms": 33890,
+    "details": "L2 D R L' U2 R' L U' L2 U F2 U' L2 F2 D' (Gd-perm, AUF = U', block on LF)",
+    "index": 179,
+    "pll": "Gd"
+  },
+  {
+    "time": "5.15",
+    "ms": 5150,
+    "details": "F2 U D' L2 F2 D R2 U' R2 F2 D' L2 D F2 (T-perm, AUF = U', block on RB)",
+    "index": 180,
+    "pll": "T"
+  },
+  {
+    "time": "7.77",
+    "ms": 7770,
+    "details": "L2 B2 L2 R2 F2 R2 D' B2 F2 D' B2 F2 D (Z-perm, AUF = U, block on FR)",
+    "index": 181,
+    "pll": "Z"
+  },
+  {
+    "time": "6.06",
+    "ms": 6060,
+    "details": "F' R' F R F B2 R F R' F' D2 L' D2 B2 R' (Na-perm, AUF = noAuf, block on RB)",
+    "index": 182,
+    "pll": "Na"
+  },
+  {
+    "time": "5.82",
+    "ms": 5820,
+    "details": "D L2 U F' B L2 F B' U L2 U' D' (Ua-perm, AUF = U, block on BL)",
+    "index": 183,
+    "pll": "Ua"
+  },
+  {
+    "time": "5.19",
+    "ms": 5190,
+    "details": "R2 B' R' B R U B U' B' R2 U' R U R' (F-perm, AUF = U', block on BL)",
+    "index": 184,
+    "pll": "F"
+  },
+  {
+    "time": "6.90",
+    "ms": 6900,
+    "details": "L' R' B' L F' L' B L R B' R' F R B (E-perm, AUF = noAuf, block on FR)",
+    "index": 185,
+    "pll": "E"
+  },
+  {
+    "time": "6.09",
+    "ms": 6090,
+    "details": "R' D' R F2 L' U L F2 U2 D' F2 D F2 D (Jb-perm, AUF = U2, block on BL)",
+    "index": 186,
+    "pll": "Jb"
+  },
+  {
+    "time": "7.17",
+    "ms": 7170,
+    "details": "R2 F D' F2 U' F U F2 D F2 R2 B U2 B' (Ga-perm, AUF = U2, block on LF)",
+    "index": 187,
+    "pll": "Ga"
+  },
+  {
+    "time": "7.51",
+    "ms": 7510,
+    "details": "L2 D' R2 U L2 D' F2 R2 D L2 U' B2 D L2 (E-perm, AUF = noAuf, block on BL)",
+    "index": 188,
+    "pll": "E"
+  },
+  {
+    "time": "6.57",
+    "ms": 6570,
+    "details": "F2 R2 U2 B U2 B' F' U2 B L2 F2 L2 U2 B' R2 (Na-perm, AUF = noAuf, block on FR)",
+    "index": 189,
+    "pll": "Na"
+  },
+  {
+    "time": "7.54",
+    "ms": 7540,
+    "details": "B2 R2 F2 U' R2 U F2 D' L2 U B2 U' R2 L2 B2 (Ra-perm, AUF = noAuf, block on LF)",
+    "index": 190,
+    "pll": "Ra"
+  },
+  {
+    "time": "6.82",
+    "ms": 6820,
+    "details": "B2 D' L2 D F2 D' L2 U L R' U2 L' R' D (Jb-perm, AUF = noAuf, block on FR)",
+    "index": 191,
+    "pll": "Jb"
+  },
+  {
+    "time": "7.11",
+    "ms": 7110,
+    "details": "D R' L' D2 L U L' D2 L U' R U' D' (Aa-perm, AUF = U, block on BL)",
+    "index": 192,
+    "pll": "Aa"
+  },
+  {
+    "time": "5.82",
+    "ms": 5820,
+    "details": "B2 U L2 U L2 B2 U2 B2 U L2 U' L2 D' B2 D (F-perm, AUF = U, block on LF)",
+    "index": 193,
+    "pll": "F"
+  },
+  {
+    "time": "4.57",
+    "ms": 4570,
+    "details": "L2 R2 D R2 U B2 R2 U B2 D' L2 B2 F2 D B2 (F-perm, AUF = U2, block on FR)",
+    "index": 194,
+    "pll": "F"
+  },
+  {
+    "time": "7.15",
+    "ms": 7150,
+    "details": "R' U2 R' D2 L' U L D L' U' L2 F2 L' D R2 (V-perm, AUF = U', block on FR)",
+    "index": 195,
+    "pll": "V"
+  },
+  {
+    "time": "5.84",
+    "ms": 5840,
+    "details": "B2 U2 B2 U L2 U2 B2 U B2 U L2 U2 B2 U' B2 (V-perm, AUF = U, block on LF)",
+    "index": 196,
+    "pll": "V"
+  },
+  {
+    "time": "8.67",
+    "ms": 8670,
+    "details": "B2 U L2 D' F2 D L2 B2 U' R2 U B2 U' B2 (E-perm, AUF = noAuf, block on LF)",
+    "index": 197,
+    "pll": "E"
+  },
+  {
+    "time": "7.52",
+    "ms": 7520,
+    "details": "B2 D' B U R2 B' D2 F' D2 B' U D L2 U' B' (Na-perm, AUF = U, block on RB)",
+    "index": 198,
+    "pll": "Na"
+  },
+  {
+    "time": "8.69",
+    "ms": 8690,
+    "details": "F' U F' R2 F U F' B L2 B D' F2 L2 B2 (Jb-perm, AUF = U2, block on RB)",
+    "index": 199,
+    "pll": "Jb"
+  },
+  {
+    "time": "6.06",
+    "ms": 6060,
+    "details": "B2 U F D2 F D2 F2 R2 B U2 B' U2 R2 U' B2 (Y-perm, AUF = U, block on BL)",
+    "index": 200,
+    "pll": "Y"
+  },
+  {
+    "time": "4.93",
+    "ms": 4930,
+    "details": "L2 D2 R' B R2 B' R' D L' D F L' U' F' (Y-perm, AUF = noAuf, block on FR)",
+    "index": 201,
+    "pll": "Y"
+  },
+  {
+    "time": "6.78",
+    "ms": 6780,
+    "details": "F' B' U' B D F U2 F' D' B' U' F B (Aa-perm, AUF = U2, block on BL)",
+    "index": 202,
+    "pll": "Aa"
+  },
+  {
+    "time": "5.75",
+    "ms": 5750,
+    "details": "D F2 U' R2 U R2 F2 D R2 D' R2 U' D' (Aa-perm, AUF = U, block on LF)",
+    "index": 203,
+    "pll": "Aa"
+  },
+  {
+    "time": "6.82",
+    "ms": 6820,
+    "details": "D' L' D2 L D L' U F2 D' B2 R2 D' R F2 B2 (Gc-perm, AUF = U, block on BL)",
+    "index": 204,
+    "pll": "Gc"
+  },
+  {
+    "time": "5.11",
+    "ms": 5110,
+    "details": "F U2 B' U2 L U' F' U2 F U L' B U2 F' (Jb-perm, AUF = U', block on FR)",
+    "index": 205,
+    "pll": "Jb"
+  },
+  {
+    "time": "7.03",
+    "ms": 7030,
+    "details": "R L U2 R' L' U F' U B' U2 F U' B (Gb-perm, AUF = U', block on LF)",
+    "index": 206,
+    "pll": "Gb"
+  },
+  {
+    "time": "7.18",
+    "ms": 7180,
+    "details": "B U2 L U R' F L' R B' L R' F' L' U R (Ra-perm, AUF = U, block on RB)",
+    "index": 207,
+    "pll": "Ra"
+  },
+  {
+    "time": "6.09",
+    "ms": 6090,
+    "details": "B D2 B F2 D2 B2 L2 F' U' F L2 F' U L2 F' (Gc-perm, AUF = U2, block on FR)",
+    "index": 208,
+    "pll": "Gc"
+  },
+  {
+    "time": "4.65",
+    "ms": 4650,
+    "details": "R' B2 R' D L2 U' L' U2 L' D' L R2 U L' (Jb-perm, AUF = U', block on RB)",
+    "index": 209,
+    "pll": "Jb"
+  },
+  {
+    "time": "7.53",
+    "ms": 7530,
+    "details": "B2 F' D B' F L2 F D2 B F2 D B U2 B F (Gd-perm, AUF = noAuf, block on FR)",
+    "index": 210,
+    "pll": "Gd"
+  },
+  {
+    "time": "7.02",
+    "ms": 7020,
+    "details": "F B' R2 F B R2 F2 U R' L' U2 R L (H-perm, AUF = U', block on BL)",
+    "index": 211,
+    "pll": "H"
+  },
+  {
+    "time": "7.05",
+    "ms": 7050,
+    "details": "R2 L' D' L F2 L' D R2 L F B U2 F' B' (Ga-perm, AUF = noAuf, block on BL)",
+    "index": 212,
+    "pll": "Ga"
+  },
+  {
+    "time": "7.57",
+    "ms": 7570,
+    "details": "R D R' B2 L U' L' B2 U D2 L2 D' L2 D2 (Ja-perm, AUF = U', block on RB)",
+    "index": 213,
+    "pll": "Ja"
+  },
+  {
+    "time": "6.96",
+    "ms": 6960,
+    "details": "D' L2 D' R2 U2 D' B2 D' L2 U R2 F2 (Aa-perm, AUF = U, block on BL)",
+    "index": 214,
+    "pll": "Aa"
+  },
+  {
+    "time": "5.82",
+    "ms": 5820,
+    "details": "R2 D2 L2 D R2 U' L2 U' F2 U2 R2 D R2 U F2 (Gb-perm, AUF = U, block on BL)",
+    "index": 215,
+    "pll": "Gb"
+  },
+  {
+    "time": "6.25",
+    "ms": 6250,
+    "details": "B2 R2 U' R2 U R2 D' R2 D B2 (Ja-perm, AUF = U', block on FR)",
+    "index": 216,
+    "pll": "Ja"
+  },
+  {
+    "time": "9.22",
+    "ms": 9220,
+    "details": "R F U L D2 R D' F' U D' F U' F2 R' L' (E-perm, AUF = U', block on BL)",
+    "index": 217,
+    "pll": "E"
+  },
+  {
+    "time": "6.63",
+    "ms": 6630,
+    "details": "L2 F' L' F L' B' U' F U R U' R' F' B (Ja-perm, AUF = noAuf, block on RB)",
+    "index": 218,
+    "pll": "Ja"
+  },
+  {
+    "time": "10.56",
+    "ms": 10560,
+    "details": "R D' L2 D F2 R' U' R F2 R' L2 U' L2 U L2 (Nb-perm, AUF = noAuf, block on LF)",
+    "index": 219,
+    "pll": "Nb"
+  },
+  {
+    "time": "6.64",
+    "ms": 6640,
+    "details": "B2 D2 R2 F2 R2 D2 F2 R2 F' B R2 F' B (H-perm, AUF = U2, block on BL)",
+    "index": 220,
+    "pll": "H"
+  },
+  {
+    "time": "6.76",
+    "ms": 6760,
+    "details": "L' U L U' L2 B' U' B U L U' L2 F' L' F (F-perm, AUF = noAuf, block on BL)",
+    "index": 221,
+    "pll": "F"
+  },
+  {
+    "time": "6.56",
+    "ms": 6560,
+    "details": "D' L F' L B2 L' F L B2 L2 U2 D (Aa-perm, AUF = U2, block on BL)",
+    "index": 222,
+    "pll": "Aa"
+  },
+  {
+    "time": "6.50",
+    "ms": 6500,
+    "details": "L2 R2 D R2 U R2 U' L2 F2 L2 B2 D' L2 U F2 (F-perm, AUF = U2, block on FR)",
+    "index": 223,
+    "pll": "F"
+  },
+  {
+    "time": "7.77",
+    "ms": 7770,
+    "details": "R U2 L' U R' U' R2 L D R' U2 R D' R2 (Ja-perm, AUF = U', block on LF)",
+    "index": 224,
+    "pll": "Ja"
+  },
+  {
+    "time": "6.21",
+    "ms": 6210,
+    "details": "L2 U' L2 D R2 B2 F2 D' F2 U L2 R2 F2 L2 (Gb-perm, AUF = U2, block on FR)",
+    "index": 225,
+    "pll": "Gb"
+  },
+  {
+    "time": "6.15",
+    "ms": 6150,
+    "details": "F2 U2 F R' F L2 F' R F L2 U' F2 U' F2 (Gb-perm, AUF = U2, block on BL)",
+    "index": 226,
+    "pll": "Gb"
+  },
+  {
+    "time": "4.44",
+    "ms": 4440,
+    "details": "B U B' R2 F2 D' F' D R2 F' U' F' U F (T-perm, AUF = U2, block on RB)",
+    "index": 227,
+    "pll": "T"
+  },
+  {
+    "time": "7.87",
+    "ms": 7870,
+    "details": "R U D' F2 U' R' F2 L D2 B2 L' U' R D' R2 (Nb-perm, AUF = U, block on LF)",
+    "index": 228,
+    "pll": "Nb"
+  },
+  {
+    "time": "6.11",
+    "ms": 6110,
+    "details": "F' L' U R D' B' D R' U' L B' F U B (Ja-perm, AUF = U', block on FR)",
+    "index": 229,
+    "pll": "Ja"
+  },
+  {
+    "time": "9.33",
+    "ms": 9330,
+    "details": "B2 D F B' L2 F' U' F D2 F' U B R2 D B2 (Ra-perm, AUF = U, block on BL)",
+    "index": 230,
+    "pll": "Ra"
+  },
+  {
+    "time": "4.96",
+    "ms": 4960,
+    "details": "D2 B2 D' R2 U B2 U D2 L2 U F2 L2 D (Aa-perm, AUF = U, block on LF)",
+    "index": 231,
+    "pll": "Aa"
+  },
+  {
+    "time": "5.61",
+    "ms": 5610,
+    "details": "R2 B2 D2 L2 U D' R L D2 F2 R L D (H-perm, AUF = U', block on LF)",
+    "index": 232,
+    "pll": "H"
+  },
+  {
+    "time": "6.19",
+    "ms": 6190,
+    "details": "R B2 L B2 D R D' R' D' R' F2 D' R D F2 (Na-perm, AUF = noAuf, block on LF)",
+    "index": 233,
+    "pll": "Na"
+  },
+  {
+    "time": "5.08",
+    "ms": 5080,
+    "details": "B2 R2 F2 D' B' L2 F' B D' F' R2 B U' B (Jb-perm, AUF = noAuf, block on RB)",
+    "index": 234,
+    "pll": "Jb"
+  },
+  {
+    "time": "5.77",
+    "ms": 5770,
+    "details": "B2 U D2 F2 U2 R2 U R2 F2 D R2 D' R2 D2 B2 (Gc-perm, AUF = U2, block on BL)",
+    "index": 235,
+    "pll": "Gc"
+  },
+  {
+    "time": "5.95",
+    "ms": 5950,
+    "details": "R2 L2 U' R L' U2 D2 R L' D F2 B2 D (Z-perm, AUF = U', block on BL)",
+    "index": 236,
+    "pll": "Z"
+  },
+  {
+    "time": "7.08",
+    "ms": 7080,
+    "details": "B2 L' B' L2 U L2 B L B R B R' B U B' (Rb-perm, AUF = U', block on BL)",
+    "index": 237,
+    "pll": "Rb"
+  },
+  {
+    "time": "7.41",
+    "ms": 7410,
+    "details": "R2 U2 B2 U B' F D2 L2 B F U' L2 U2 F2 D2 (Nb-perm, AUF = U, block on LF)",
+    "index": 238,
+    "pll": "Nb"
+  },
+  {
+    "time": "6.75",
+    "ms": 6750,
+    "details": "L R D2 L' U L U2 D2 L' B2 R B2 R' U R' (Rb-perm, AUF = U', block on RB)",
+    "index": 239,
+    "pll": "Rb"
+  },
+  {
+    "time": "4.66",
+    "ms": 4660,
+    "details": "B U' B' U B2 L U L' U' B' U B2 R B R' (F-perm, AUF = noAuf, block on LF)",
+    "index": 240,
+    "pll": "F"
+  },
+  {
+    "time": "10.90",
+    "ms": 10900,
+    "details": "R2 U R B' D' R' F' R2 F D B U' R' U2 R' (Rb-perm, AUF = U', block on RB)",
+    "index": 241,
+    "pll": "Rb"
+  },
+  {
+    "time": "5.09",
+    "ms": 5090,
+    "details": "R2 U R U' R' U F R B' R B R F' R' (Y-perm, AUF = noAuf, block on RB)",
+    "index": 242,
+    "pll": "Y"
+  },
+  {
+    "time": "5.20",
+    "ms": 5200,
+    "details": "D R2 U R2 U D2 L2 B2 U' B2 D L2 (T-perm, AUF = U2, block on FR)",
+    "index": 243,
+    "pll": "T"
+  },
+  {
+    "time": "9.87",
+    "ms": 9870,
+    "details": "R' F2 L' U2 L' U' F2 U' F2 U L U2 R U2 L (Gd-perm, AUF = U, block on BL)",
+    "index": 244,
+    "pll": "Gd"
+  },
+  {
+    "time": "6.08",
+    "ms": 6080,
+    "details": "B' F R2 D' F' U' R2 U F D B R2 F' (Ua-perm, AUF = U2, block on FR)",
+    "index": 245,
+    "pll": "Ua"
+  },
+  {
+    "time": "6.69",
+    "ms": 6690,
+    "details": "F2 L2 D R2 D' L2 D F B' D2 L2 F' B D F2 (Rb-perm, AUF = U, block on RB)",
+    "index": 246,
+    "pll": "Rb"
+  },
+  {
+    "time": "7.15",
+    "ms": 7150,
+    "details": "B U' F L2 B' L' B L2 F' U2 L U B' U L' (Na-perm, AUF = U', block on BL)",
+    "index": 247,
+    "pll": "Na"
+  },
+  {
+    "time": "6.64",
+    "ms": 6640,
+    "details": "R2 L2 U F' B R2 F B' U R2 L2 D2 (Ub-perm, AUF = U2, block on BL)",
+    "index": 248,
+    "pll": "Ub"
+  },
+  {
+    "time": "4.77",
+    "ms": 4770,
+    "details": "B2 L2 U' B2 D F2 L2 F2 L2 U F2 D' B2 L2 (T-perm, AUF = U', block on LF)",
+    "index": 249,
+    "pll": "T"
+  },
+  {
+    "time": "4.18",
+    "ms": 4180,
+    "details": "R' F' U F U F' U' R' U' R F R' U R2 (Y-perm, AUF = noAuf, block on FR)",
+    "index": 250,
+    "pll": "Y"
+  },
+  {
+    "time": "6.71",
+    "ms": 6710,
+    "details": "R U B U' B' R' U B' R' U' R U B (Ub-perm, AUF = U', block on LF)",
+    "index": 251,
+    "pll": "Ub"
+  },
+  {
+    "time": "6.61",
+    "ms": 6610,
+    "details": "R2 U2 B2 R' L' D2 B2 L2 U2 F2 R L' (H-perm, AUF = U2, block on LF)",
+    "index": 252,
+    "pll": "H"
+  },
+  {
+    "time": "6.78",
+    "ms": 6780,
+    "details": "R B R' U2 R B' R2 D2 B' L F' L' B D2 R (Na-perm, AUF = U2, block on BL)",
+    "index": 253,
+    "pll": "Na"
+  },
+  {
+    "time": "5.05",
+    "ms": 5050,
+    "details": "R2 D R2 U2 R2 B2 D L2 D' B2 D' R2 U2 F2 (Ja-perm, AUF = U, block on FR)",
+    "index": 254,
+    "pll": "Ja"
+  },
+  {
+    "time": "5.25",
+    "ms": 5250,
+    "details": "F2 B2 U F B U2 D2 F' B' D' L2 R2 D' (H-perm, AUF = U, block on RB)",
+    "index": 255,
+    "pll": "H"
+  },
+  {
+    "time": "5.59",
+    "ms": 5590,
+    "details": "F2 U R2 U R2 U F2 D R2 U2 D' R2 (Ub-perm, AUF = U, block on LF)",
+    "index": 256,
+    "pll": "Ub"
+  },
+  {
+    "time": "5.95",
+    "ms": 5950,
+    "details": "B2 U B' D F' R2 U' L2 U R2 F D' B' U' B2 (Rb-perm, AUF = U', block on BL)",
+    "index": 257,
+    "pll": "Rb"
+  },
+  {
+    "time": "8.92",
+    "ms": 8920,
+    "details": "R' D B R' U' B' R2 D2 L' F L2 F' L' D (Ja-perm, AUF = noAuf, block on RB)",
+    "index": 258,
+    "pll": "Ja"
+  },
+  {
+    "time": "4.06",
+    "ms": 4060,
+    "details": "L2 U2 F U' F R2 B' D B R2 F2 U' L2 (T-perm, AUF = noAuf, block on BL)",
+    "index": 259,
+    "pll": "T"
+  },
+  {
+    "time": "7.37",
+    "ms": 7370,
+    "details": "D L2 U B F' L2 B' F U L2 U2 D' (Ua-perm, AUF = U2, block on LF)",
+    "index": 260,
+    "pll": "Ua"
+  },
+  {
+    "time": "13.00",
+    "ms": 13000,
+    "details": "R2 F' U' F2 U R2 U' F2 R2 D' F' D R2 U F (Ra-perm, AUF = noAuf, block on RB)",
+    "index": 261,
+    "pll": "Ra"
+  },
+  {
+    "time": "52.10",
+    "ms": 52100,
+    "details": "L2 F2 R2 D' R' L2 U' R B2 L' D R2 L (Gb-perm, AUF = U', block on BL)",
+    "index": 262,
+    "pll": "Gb"
+  },
+  {
+    "time": "6.61",
+    "ms": 6610,
+    "details": "B2 D F2 D' R2 U L2 B2 U' R2 D L2 D' B2 (E-perm, AUF = noAuf, block on RB)",
+    "index": 263,
+    "pll": "E"
+  },
+  {
+    "time": "5.11",
+    "ms": 5110,
+    "details": "F B U2 F' B' U2 L' U R' U2 L U' R (Gb-perm, AUF = noAuf, block on BL)",
+    "index": 264,
+    "pll": "Gb"
+  },
+  {
+    "time": "7.12",
+    "ms": 7120,
+    "details": "R2 F2 U F2 U' R2 U F2 B2 L2 F2 U B2 R2 D (Gd-perm, AUF = U', block on BL)",
+    "index": 265,
+    "pll": "Gd"
+  },
+  {
+    "time": "6.76",
+    "ms": 6760,
+    "details": "B' U' D L2 U B L2 F' D2 R2 F U B' D B2 (Na-perm, AUF = U, block on LF)",
+    "index": 266,
+    "pll": "Na"
+  },
+  {
+    "time": "5.92",
+    "ms": 5920,
+    "details": "R' B2 R2 U L U2 R' U' R U2 L' R2 B2 R (Gb-perm, AUF = U2, block on RB)",
+    "index": 267,
+    "pll": "Gb"
+  },
+  {
+    "time": "7.73",
+    "ms": 7730,
+    "details": "B' R B R' U B U L U L' B' R' U2 R (Rb-perm, AUF = noAuf, block on LF)",
+    "index": 268,
+    "pll": "Rb"
+  },
+  {
+    "time": "6.00",
+    "ms": 6000,
+    "details": "B' F R2 D' F' U' R2 U F D B R2 F' (Ua-perm, AUF = U2, block on FR)",
+    "index": 269,
+    "pll": "Ua"
+  },
+  {
+    "time": "8.78",
+    "ms": 8780,
+    "details": "B U2 L2 F' L' F L' U L' R B L B' R' B' (E-perm, AUF = U, block on RB)",
+    "index": 270,
+    "pll": "E"
+  },
+  {
+    "time": "5.32",
+    "ms": 5320,
+    "details": "R B2 U B D' F D2 B D F D F2 R2 D R' (Rb-perm, AUF = noAuf, block on BL)",
+    "index": 271,
+    "pll": "Rb"
+  },
+  {
+    "time": "3.48",
+    "ms": 3480,
+    "details": "F2 R D' L' U D' B2 U' D L' D R' F2 (Ua-perm, AUF = noAuf, block on BL)",
+    "index": 272,
+    "pll": "Ua"
+  },
+  {
+    "time": "5.88",
+    "ms": 5880,
+    "details": "D' B2 L2 B R B' L2 B R' B U D (Aa-perm, AUF = U', block on LF)",
+    "index": 273,
+    "pll": "Aa"
+  },
+  {
+    "time": "6.67",
+    "ms": 6670,
+    "details": "D R2 D' R L F2 R L' U' D' F2 D F2 (Ub-perm, AUF = U', block on BL)",
+    "index": 274,
+    "pll": "Ub"
+  },
+  {
+    "time": "8.04",
+    "ms": 8040,
+    "details": "D2 F2 D' F2 U F2 L2 U L2 U' F2 D' (Aa-perm, AUF = U', block on RB)",
+    "index": 275,
+    "pll": "Aa"
+  },
+  {
+    "time": "9.82",
+    "ms": 9820,
+    "details": "B2 R2 L2 B2 U' B F U2 D2 B F D' B2 F2 (Z-perm, AUF = U2, block on LF)",
+    "index": 276,
+    "pll": "Z"
+  },
+  {
+    "time": "5.88",
+    "ms": 5880,
+    "details": "R2 U' D2 B U B' L2 B U' B' L2 U D2 R2 (Jb-perm, AUF = U', block on BL)",
+    "index": 277,
+    "pll": "Jb"
+  },
+  {
+    "time": "7.83",
+    "ms": 7830,
+    "details": "F2 L D' L2 U' L U L2 D L2 F2 R U2 R' (Ga-perm, AUF = U2, block on BL)",
+    "index": 278,
+    "pll": "Ga"
+  },
+  {
+    "time": "6.03",
+    "ms": 6030,
+    "details": "R2 F B U' D' L2 D2 L2 B2 U D' F' B (H-perm, AUF = U2, block on RB)",
+    "index": 279,
+    "pll": "H"
+  },
+  {
+    "time": "13.77",
+    "ms": 13770,
+    "details": "F B' R2 F' B' D F2 R2 U F2 U' B2 U L2 (Gd-perm, AUF = noAuf, block on RB)",
+    "index": 280,
+    "pll": "Gd"
+  },
+  {
+    "time": "5.14",
+    "ms": 5140,
+    "details": "F' U F' R2 F U' F U' D2 B2 L2 B2 D2 (Aa-perm, AUF = U, block on BL)",
+    "index": 281,
+    "pll": "Aa"
+  },
+  {
+    "time": "6.34",
+    "ms": 6340,
+    "details": "R2 L2 U' F2 B2 D F B' U2 D2 F B' (Z-perm, AUF = noAuf, block on BL)",
+    "index": 282,
+    "pll": "Z"
+  },
+  {
+    "time": "6.11",
+    "ms": 6110,
+    "details": "B D2 F' L' B F' L' B U2 D2 F2 R2 B R (Z-perm, AUF = U, block on LF)",
+    "index": 283,
+    "pll": "Z"
+  },
+  {
+    "time": "6.76",
+    "ms": 6760,
+    "details": "B2 L2 B2 F2 U' R2 F2 D' F2 R2 D' R2 D F2 (Gb-perm, AUF = noAuf, block on FR)",
+    "index": 284,
+    "pll": "Gb"
+  },
+  {
+    "time": "6.97",
+    "ms": 6970,
+    "details": "L U B2 L' B2 U R' U2 R U' B2 L B2 U' L' (Na-perm, AUF = U', block on LF)",
+    "index": 285,
+    "pll": "Na"
+  },
+  {
+    "time": "7.05",
+    "ms": 7050,
+    "details": "L' U L' B2 R D' R D R2 B2 L2 (Ja-perm, AUF = noAuf, block on BL)",
+    "index": 286,
+    "pll": "Ja"
+  },
+  {
+    "time": "6.61",
+    "ms": 6610,
+    "details": "D' R U' R D B2 U' L' D L' F2 D' L2 B2 (Jb-perm, AUF = U, block on LF)",
+    "index": 287,
+    "pll": "Jb"
+  },
+  {
+    "time": "6.19",
+    "ms": 6190,
+    "details": "B' D' F R2 D B D' F' U2 D B U B' (Ub-perm, AUF = U', block on LF)",
+    "index": 288,
+    "pll": "Ub"
+  },
+  {
+    "time": "7.12",
+    "ms": 7120,
+    "details": "L2 F2 D' B2 D F2 D' B2 D L2 (Ab-perm, AUF = noAuf, block on LF)",
+    "index": 289,
+    "pll": "Ab"
+  },
+  {
+    "time": "5.32",
+    "ms": 5320,
+    "details": "F B2 R F' L2 F R' F' L2 B2 (Ab-perm, AUF = noAuf, block on BL)",
+    "index": 290,
+    "pll": "Ab"
+  },
+  {
+    "time": "4.64",
+    "ms": 4640,
+    "details": "L2 D F2 U' R2 D2 L2 B2 D' R2 D' F2 D' F2 (T-perm, AUF = U2, block on BL)",
+    "index": 291,
+    "pll": "T"
+  },
+  {
+    "time": "7.32",
+    "ms": 7320,
+    "details": "F2 D R D B2 U R D' R2 U' R2 D' F2 U L (Ra-perm, AUF = U', block on RB)",
+    "index": 292,
+    "pll": "Ra"
+  },
+  {
+    "time": "6.53",
+    "ms": 6530,
+    "details": "R' U' F D2 B' L B D2 F2 U R U' F (Ra-perm, AUF = U, block on FR)",
+    "index": 293,
+    "pll": "Ra"
+  },
+  {
+    "time": "22.02",
+    "ms": 22020,
+    "details": "L R U2 L' U L U2 D2 R' U2 R D2 R' U L' (Ga-perm, AUF = U2, block on RB)",
+    "index": 294,
+    "pll": "Ga"
+  },
+  {
+    "time": "5.69",
+    "ms": 5690,
+    "details": "B' F' D2 B' F2 D F' L2 F D B2 F2 U2 F (Ga-perm, AUF = noAuf, block on FR)",
+    "index": 295,
+    "pll": "Ga"
+  },
+  {
+    "time": "4.15",
+    "ms": 4150,
+    "details": "R2 B2 U B2 U' B2 F2 D B2 D' F2 R2 (Ub-perm, AUF = noAuf, block on FR)",
+    "index": 296,
+    "pll": "Ub"
+  },
+  {
+    "time": "7.05",
+    "ms": 7050,
+    "details": "F2 D' F' D F' R2 B U' B' R2 (Jb-perm, AUF = noAuf, block on BL)",
+    "index": 297,
+    "pll": "Jb"
+  },
+  {
+    "time": "6.25",
+    "ms": 6250,
+    "details": "L R U2 L R D' L2 B2 L2 D L2 R2 (Ub-perm, AUF = U2, block on FR)",
+    "index": 298,
+    "pll": "Ub"
+  },
+  {
+    "time": "6.28",
+    "ms": 6280,
+    "details": "F2 U' F2 U R2 U D2 B2 U2 D' B2 R2 D' (Aa-perm, AUF = U, block on RB)",
+    "index": 299,
+    "pll": "Aa"
+  },
+  {
+    "time": "6.63",
+    "ms": 6630,
+    "details": "F B' R2 F B R2 F2 U L' R' U2 L R (H-perm, AUF = U', block on RB)",
+    "index": 300,
+    "pll": "H"
+  },
+  {
+    "time": "6.75",
+    "ms": 6750,
+    "details": "L' U L' B2 R D' R D R2 B2 L2 (Ja-perm, AUF = noAuf, block on BL)",
+    "index": 301,
+    "pll": "Ja"
+  },
+  {
+    "time": "5.64",
+    "ms": 5640,
+    "details": "F R F2 L F' L' F' R' F' U2 R' U R' U' R (V-perm, AUF = U2, block on LF)",
+    "index": 302,
+    "pll": "V"
+  },
+  {
+    "time": "5.54",
+    "ms": 5540,
+    "details": "B2 L2 F2 D F2 U L2 U' L2 B2 F2 U R2 U' F2 (F-perm, AUF = U2, block on FR)",
+    "index": 303,
+    "pll": "F"
+  },
+  {
+    "time": "6.56",
+    "ms": 6560,
+    "details": "L2 D2 F2 D' L2 D2 R2 B2 U B2 U2 B2 R2 D (Na-perm, AUF = noAuf, block on FR)",
+    "index": 304,
+    "pll": "Na"
+  },
+  {
+    "time": "6.64",
+    "ms": 6640,
+    "details": "B2 L F' L B2 L' F R D2 R L D F2 D R2 L2 (Gd-perm, AUF = U2, block on LF)",
+    "index": 305,
+    "pll": "Gd"
+  },
+  {
+    "time": "4.55",
+    "ms": 4550,
+    "details": "B U' F U2 B' U F' L' U R' U2 L U' R (T-perm, AUF = U', block on BL)",
+    "index": 306,
+    "pll": "T"
+  },
+  {
+    "time": "5.85",
+    "ms": 5850,
+    "details": "L' R U2 L R' U' L2 R2 D B2 D' L2 R2 (Ua-perm, AUF = U, block on FR)",
+    "index": 307,
+    "pll": "Ua"
+  },
+  {
+    "time": "5.91",
+    "ms": 5910,
+    "details": "F2 R' F' R F U R U' R' F2 U' F U F' (F-perm, AUF = U', block on RB)",
+    "index": 308,
+    "pll": "F"
+  },
+  {
+    "time": "5.91",
+    "ms": 5910,
+    "details": "R' U2 R2 U2 R2 U L U2 R' U L' U' B2 R2 B2 (Rb-perm, AUF = noAuf, block on RB)",
+    "index": 309,
+    "pll": "Rb"
+  },
+  {
+    "time": "5.56",
+    "ms": 5560,
+    "details": "F2 B2 D B2 L2 R2 F U F' L2 B D' B' R2 F2 (Ga-perm, AUF = U, block on RB)",
+    "index": 310,
+    "pll": "Ga"
+  },
+  {
+    "time": "7.01",
+    "ms": 7010,
+    "details": "F D' R2 D F' U2 D B D2 F' R2 F U D B2 (Na-perm, AUF = U, block on BL)",
+    "index": 311,
+    "pll": "Na"
+  },
+  {
+    "time": "5.62",
+    "ms": 5620,
+    "details": "B2 R2 U B2 U' R2 U B2 D' R2 D (Aa-perm, AUF = U', block on FR)",
+    "index": 312,
+    "pll": "Aa"
+  },
+  {
+    "time": "5.04",
+    "ms": 5040,
+    "details": "F2 D R2 F2 L' U' L F2 R' D R' D2 F2 (T-perm, AUF = noAuf, block on RB)",
+    "index": 313,
+    "pll": "T"
+  },
+  {
+    "time": "10.72",
+    "ms": 10720,
+    "details": "D2 L2 B2 U2 B2 U B2 L2 D2 R2 U F2 U2 R2 (Nb-perm, AUF = U, block on LF)",
+    "index": 314,
+    "pll": "Nb"
+  },
+  {
+    "time": "10.29",
+    "ms": 10290,
+    "details": "R2 F2 U R2 U' F2 U R2 D' F2 U2 D (Aa-perm, AUF = U, block on RB)",
+    "index": 315,
+    "pll": "Aa"
+  },
+  {
+    "time": "7.26",
+    "ms": 7260,
+    "details": "R2 U' D' L2 U2 D' R' L' B2 D2 R L' U F2 U2 R2 (Nb-perm, AUF = U', block on LF)",
+    "index": 316,
+    "pll": "Nb"
+  },
+  {
+    "time": "4.48",
+    "ms": 4480,
+    "details": "F2 L2 D2 F2 L' R' U2 F2 L' R' F2 B2 (H-perm, AUF = noAuf, block on RB)",
+    "index": 317,
+    "pll": "H"
+  },
+  {
+    "time": "9.11",
+    "ms": 9110,
+    "details": "R U' F' U B' U' F B' U' B U2 B' U' B2 R' (Ra-perm, AUF = noAuf, block on RB)",
+    "index": 318,
+    "pll": "Ra"
+  },
+  {
+    "time": "5.73",
+    "ms": 5730,
+    "details": "L R' F2 D R U F2 U' R' D' L' F2 R (Ub-perm, AUF = U2, block on RB)",
+    "index": 319,
+    "pll": "Ub"
+  },
+  {
+    "time": "6.65",
+    "ms": 6650,
+    "details": "F2 B2 L' R' D2 L R F' D F' L2 F D' F' B2 (Gd-perm, AUF = noAuf, block on RB)",
+    "index": 320,
+    "pll": "Gd"
+  },
+  {
+    "time": "4.46",
+    "ms": 4460,
+    "details": "R2 D' B2 L2 D L2 B2 R2 D B2 D B2 D' (Ua-perm, AUF = U, block on LF)",
+    "index": 321,
+    "pll": "Ua"
+  },
+  {
+    "time": "4.99",
+    "ms": 4990,
+    "details": "B' R' B U2 D2 F2 U' L' U F L F D2 (Ua-perm, AUF = U', block on LF)",
+    "index": 322,
+    "pll": "Ua"
+  },
+  {
+    "time": "7.31",
+    "ms": 7310,
+    "details": "B2 L2 F2 U' L2 B2 F2 R2 U' L2 B2 L2 D' (H-perm, AUF = U', block on FR)",
+    "index": 323,
+    "pll": "H"
+  },
+  {
+    "time": "6.09",
+    "ms": 6090,
+    "details": "R F2 B' D2 F L' F' D2 B2 R' B' R F2 R' (F-perm, AUF = noAuf, block on BL)",
+    "index": 324,
+    "pll": "F"
+  },
+  {
+    "time": "6.75",
+    "ms": 6750,
+    "details": "F2 L2 F2 U B' R2 B' F D' F' R2 B U' B (Gd-perm, AUF = U, block on LF)",
+    "index": 325,
+    "pll": "Gd"
+  },
+  {
+    "time": "6.73",
+    "ms": 6730,
+    "details": "L2 F2 L U B' R' U' R B2 L' B' F2 L2 (Gd-perm, AUF = noAuf, block on FR)",
+    "index": 326,
+    "pll": "Gd"
+  },
+  {
+    "time": "6.33",
+    "ms": 6330,
+    "details": "R L' B2 U D' B2 U' D' L2 D2 R' L' B2 (H-perm, AUF = U2, block on LF)",
+    "index": 327,
+    "pll": "H"
+  },
+  {
+    "time": "5.28",
+    "ms": 5280,
+    "details": "F B U2 F' B' U' L' U R' U2 L U' R (Gb-perm, AUF = U, block on BL)",
+    "index": 328,
+    "pll": "Gb"
+  },
+  {
+    "time": "5.71",
+    "ms": 5710,
+    "details": "R U R U R' U2 F2 B2 D L' D' F2 B2 R' (Ua-perm, AUF = U, block on BL)",
+    "index": 329,
+    "pll": "Ua"
+  },
+  {
+    "time": "6.55",
+    "ms": 6550,
+    "details": "F' R B2 L D L2 D' L' B' L2 B' R' F (Jb-perm, AUF = U', block on RB)",
+    "index": 330,
+    "pll": "Jb"
+  },
+  {
+    "time": "6.79",
+    "ms": 6790,
+    "details": "D' L U2 L U2 L' U2 D L' U L2 D' L D L2 (Na-perm, AUF = U', block on RB)",
+    "index": 331,
+    "pll": "Na"
+  },
+  {
+    "time": "8.63",
+    "ms": 8630,
+    "details": "B L' B R D2 B R' U B U L U' R' F' R (Rb-perm, AUF = U', block on FR)",
+    "index": 332,
+    "pll": "Rb"
+  },
+  {
+    "time": "6.00",
+    "ms": 6000,
+    "details": "R2 D' L2 D' F' B D2 R2 F' U' F U2 B' U F (Y-perm, AUF = U', block on RB)",
+    "index": 333,
+    "pll": "Y"
+  },
+  {
+    "time": "6.37",
+    "ms": 6370,
+    "details": "R2 U' F2 R2 F2 B U' F U2 B' U F' R2 (Ga-perm, AUF = U', block on BL)",
+    "index": 334,
+    "pll": "Ga"
+  },
+  {
+    "time": "7.78",
+    "ms": 7780,
+    "details": "R2 U F2 L2 D R2 D' R2 F2 D' B2 D F2 L2 F2 (F-perm, AUF = noAuf, block on LF)",
+    "index": 335,
+    "pll": "F"
+  },
+  {
+    "time": "6.05",
+    "ms": 6050,
+    "details": "R2 L2 U2 D2 R' B R' F2 R B' R' F2 L2 D2 (Ab-perm, AUF = U2, block on LF)",
+    "index": 336,
+    "pll": "Ab"
+  },
+  {
+    "time": "14.14",
+    "ms": 14140,
+    "details": "R2 U D' F' D' L2 U B' U' B U2 F' D2 R2 B' (Na-perm, AUF = U', block on LF)",
+    "index": 337,
+    "pll": "Na"
+  },
+  {
+    "time": "9.48",
+    "ms": 9480,
+    "details": "R L' B R2 D2 R2 L B' L U2 R' F L' (F-perm, AUF = U2, block on BL)",
+    "index": 338,
+    "pll": "F"
+  },
+  {
+    "time": "8.80",
+    "ms": 8800,
+    "details": "L2 D L2 D B2 U R2 F2 D2 B2 U L2 U' F2 (Ja-perm, AUF = U2, block on FR)",
+    "index": 339,
+    "pll": "Ja"
+  },
+  {
+    "time": "9.64",
+    "ms": 9640,
+    "details": "D' R2 U B2 U' F2 D L2 B2 D' F2 D B2 U' B2 (E-perm, AUF = U, block on RB)",
+    "index": 340,
+    "pll": "E"
+  },
+  {
+    "time": "5.52",
+    "ms": 5520,
+    "details": "L2 R2 B2 L2 U R2 F2 U B2 U' L2 U L2 B2 D (Ga-perm, AUF = U', block on FR)",
+    "index": 341,
+    "pll": "Ga"
+  },
+  {
+    "time": "5.65",
+    "ms": 5650,
+    "details": "F B' R2 F B R2 F2 U L' R' U2 L R (H-perm, AUF = U', block on RB)",
+    "index": 342,
+    "pll": "H"
+  },
+  {
+    "time": "7.50",
+    "ms": 7500,
+    "details": "B R' U B2 D2 L' F2 D' L D' B U2 B U B' (Ga-perm, AUF = U, block on LF)",
+    "index": 343,
+    "pll": "Ga"
+  },
+  {
+    "time": "6.05",
+    "ms": 6050,
+    "details": "L' R2 U' F2 L2 B2 D' L2 F2 R B2 L R' (Ub-perm, AUF = U2, block on RB)",
+    "index": 344,
+    "pll": "Ub"
+  },
+  {
+    "time": "5.76",
+    "ms": 5760,
+    "details": "F' R2 U R2 U' R2 F U2 F' R2 U R2 U' R2 F (Na-perm, AUF = U', block on LF)",
+    "index": 345,
+    "pll": "Na"
+  },
+  {
+    "time": "5.54",
+    "ms": 5540,
+    "details": "F' L' B L' B L B2 L F U' B U' B' (Ua-perm, AUF = U2, block on RB)",
+    "index": 346,
+    "pll": "Ua"
+  },
+  {
+    "time": "6.81",
+    "ms": 6810,
+    "details": "D' L2 D' B2 U2 R2 D L2 F2 U' B2 D' B2 D2 R2 (Ra-perm, AUF = U2, block on FR)",
+    "index": 347,
+    "pll": "Ra"
+  },
+  {
+    "time": "6.28",
+    "ms": 6280,
+    "details": "B' F2 D' B R2 F' U B2 F U L2 B2 R2 U2 D (Ga-perm, AUF = U2, block on LF)",
+    "index": 348,
+    "pll": "Ga"
+  },
+  {
+    "time": "7.98",
+    "ms": 7980,
+    "details": "B' D2 R' D F D' R D2 B D' R' F' R U' D (E-perm, AUF = U, block on LF)",
+    "index": 349,
+    "pll": "E"
+  },
+  {
+    "time": "6.14",
+    "ms": 6140,
+    "details": "B2 U R2 F2 D' F' D F' R2 B U' B' U' B2 (Y-perm, AUF = noAuf, block on BL)",
+    "index": 350,
+    "pll": "Y"
+  },
+  {
+    "time": "8.02",
+    "ms": 8020,
+    "details": "L2 R2 D L2 R2 U L2 R2 D2 F2 L2 R2 B2 (Z-perm, AUF = noAuf, block on RB)",
+    "index": 351,
+    "pll": "Z"
+  },
+  {
+    "time": "5.61",
+    "ms": 5610,
+    "details": "B U2 B' U R2 F' R' D2 R' U' R D2 R F R2 (V-perm, AUF = U, block on FR)",
+    "index": 352,
+    "pll": "V"
+  },
+  {
+    "time": "5.93",
+    "ms": 5930,
+    "details": "B2 U' B2 U' B' D F' D' L2 B2 L2 D F D' B' (Y-perm, AUF = U, block on BL)",
+    "index": 353,
+    "pll": "Y"
+  },
+  {
+    "time": "6.44",
+    "ms": 6440,
+    "details": "B F2 D B' R2 B D' F2 U' F U2 B' U F' (Na-perm, AUF = U', block on FR)",
+    "index": 354,
+    "pll": "Na"
+  },
+  {
+    "time": "5.79",
+    "ms": 5790,
+    "details": "R' D L2 D' B2 R U R' B2 R L2 U L2 U' L2 (Na-perm, AUF = U2, block on BL)",
+    "index": 355,
+    "pll": "Na"
+  },
+  {
+    "time": "8.90",
+    "ms": 8900,
+    "details": "L U2 B2 L' D' F2 D L D' F2 D' R D2 B2 (Ab-perm, AUF = U2, block on FR)",
+    "index": 356,
+    "pll": "Ab"
+  },
+  {
+    "time": "6.88",
+    "ms": 6880,
+    "details": "R B2 R2 B U B' L B U' B' L' R2 B2 R' (Gb-perm, AUF = U2, block on RB)",
+    "index": 357,
+    "pll": "Gb"
+  },
+  {
+    "time": "8.10",
+    "ms": 8100,
+    "details": "B' U B' L2 B U B' F R2 F D' B2 R2 F2 (Jb-perm, AUF = U2, block on LF)",
+    "index": 358,
+    "pll": "Jb"
+  },
+  {
+    "time": "5.88",
+    "ms": 5880,
+    "details": "R' U2 L R F U F' U2 R' U L' F' U' F R (Ga-perm, AUF = U, block on FR)",
+    "index": 359,
+    "pll": "Ga"
+  },
+  {
+    "time": "5.51",
+    "ms": 5510,
+    "details": "B2 D' L2 D F2 D' L2 U L R' U2 L' R' D (Jb-perm, AUF = noAuf, block on FR)",
+    "index": 360,
+    "pll": "Jb"
+  },
+  {
+    "time": "7.68",
+    "ms": 7680,
+    "details": "F2 L' F B L2 B' U F U' F' L' B L2 B' U2 F (Gd-perm, AUF = U2, block on RB)",
+    "index": 361,
+    "pll": "Gd"
+  },
+  {
+    "time": "5.67",
+    "ms": 5670,
+    "details": "D2 B2 U' L' R B2 L R' U' B2 U' D2 (Ub-perm, AUF = U, block on RB)",
+    "index": 362,
+    "pll": "Ub"
+  },
+  {
+    "time": "6.69",
+    "ms": 6690,
+    "details": "F2 L2 U R2 D' B2 D R2 D' L2 U D (Aa-perm, AUF = U2, block on LF)",
+    "index": 363,
+    "pll": "Aa"
+  },
+  {
+    "time": "7.17",
+    "ms": 7170,
+    "details": "B U2 R' D2 R U2 B' U2 B U2 R' D2 R U2 B' (E-perm, AUF = U2, block on LF)",
+    "index": 364,
+    "pll": "E"
+  },
+  {
+    "time": "9.37",
+    "ms": 9370,
+    "details": "R U B U' B' L' R' B' U' B U L (Ub-perm, AUF = noAuf, block on FR)",
+    "index": 365,
+    "pll": "Ub"
+  },
+  {
+    "time": "6.60",
+    "ms": 6600,
+    "details": "B2 F2 D B' F' D F D' F2 U F' U B' F U R2 (Gd-perm, AUF = U2, block on LF)",
+    "index": 366,
+    "pll": "Gd"
+  },
+  {
+    "time": "4.96",
+    "ms": 4960,
+    "details": "R' U B L U L' U' B' R B L' B L B2 (Ja-perm, AUF = noAuf, block on FR)",
+    "index": 367,
+    "pll": "Ja"
+  },
+  {
+    "time": "6.40",
+    "ms": 6400,
+    "details": "B' U L' B2 R' U R B2 L2 D L D' L2 U' B (V-perm, AUF = noAuf, block on BL)",
+    "index": 368,
+    "pll": "V"
+  },
+  {
+    "time": "6.70",
+    "ms": 6700,
+    "details": "B2 U R2 U R2 U' L D' L F2 L' D L' B2 R2 (Gb-perm, AUF = U', block on LF)",
+    "index": 369,
+    "pll": "Gb"
+  },
+  {
+    "time": "7.59",
+    "ms": 7590,
+    "details": "B' R' F' U2 L' B2 L' F' B' D L' D L' F2 (Ja-perm, AUF = U2, block on RB)",
+    "index": 370,
+    "pll": "Ja"
+  },
+  {
+    "time": "6.52",
+    "ms": 6520,
+    "details": "F B' D' R2 D B' D B' U' B D' B2 U F' (Rb-perm, AUF = U, block on BL)",
+    "index": 371,
+    "pll": "Rb"
+  },
+  {
+    "time": "6.59",
+    "ms": 6590,
+    "details": "D' R U2 R D L2 D' F2 D L B2 L U' R2 B2 (Gc-perm, AUF = U, block on FR)",
+    "index": 372,
+    "pll": "Gc"
+  },
+  {
+    "time": "7.01",
+    "ms": 7010,
+    "details": "B F' L2 B' F' L2 F2 U L U' R U2 L' U R' (Gd-perm, AUF = U, block on FR)",
+    "index": 373,
+    "pll": "Gd"
+  },
+  {
+    "time": "6.10",
+    "ms": 6100,
+    "details": "L F' L U' L U L2 F2 L F' U' L F L2 F' (V-perm, AUF = U, block on RB)",
+    "index": 374,
+    "pll": "V"
+  },
+  {
+    "time": "4.49",
+    "ms": 4490,
+    "details": "R' U' R B2 U B2 D' R' U R D B2 U' B2 (T-perm, AUF = U, block on LF)",
+    "index": 375,
+    "pll": "T"
+  },
+  {
+    "time": "4.46",
+    "ms": 4460,
+    "details": "F' U' L' U L F U' L F U F' U' L' (Ua-perm, AUF = U, block on BL)",
+    "index": 376,
+    "pll": "Ua"
+  },
+  {
+    "time": "7.17",
+    "ms": 7170,
+    "details": "B2 L2 B R B' L2 B R' B (Aa-perm, AUF = noAuf, block on FR)",
+    "index": 377,
+    "pll": "Aa"
+  },
+  {
+    "time": "6.86",
+    "ms": 6860,
+    "details": "L U' L2 F2 D' R B2 R' D F2 L2 U L' (Na-perm, AUF = U, block on RB)",
+    "index": 378,
+    "pll": "Na"
+  },
+  {
+    "time": "6.34",
+    "ms": 6340,
+    "details": "B F2 L F L' B' L F R U' R' U F2 L' F2 (Ra-perm, AUF = U', block on LF)",
+    "index": 379,
+    "pll": "Ra"
+  },
+  {
+    "time": "6.34",
+    "ms": 6340,
+    "details": "F2 U R2 U' L2 U R2 U' L2 F2 (Ab-perm, AUF = noAuf, block on RB)",
+    "index": 380,
+    "pll": "Ab"
+  },
+  {
+    "time": "4.92",
+    "ms": 4920,
+    "details": "D2 L2 D F2 U' L2 U F2 U' L2 F2 D (Ab-perm, AUF = U, block on LF)",
+    "index": 381,
+    "pll": "Ab"
+  },
+  {
+    "time": "6.24",
+    "ms": 6240,
+    "details": "L B2 L2 R2 F2 L' D B2 L2 R2 F2 (H-perm, AUF = U', block on FR)",
+    "index": 382,
+    "pll": "H"
+  },
+  {
+    "time": "6.46",
+    "ms": 6460,
+    "details": "L R D2 L' U L U2 D2 L' B2 R B2 R' U R' (Rb-perm, AUF = U', block on RB)",
+    "index": 383,
+    "pll": "Rb"
+  },
+  {
+    "time": "7.06",
+    "ms": 7060,
+    "details": "D2 L2 U R2 B F' R2 L2 D2 B' F U' R2 (Ua-perm, AUF = U2, block on LF)",
+    "index": 384,
+    "pll": "Ua"
+  },
+  {
+    "time": "5.79",
+    "ms": 5790,
+    "details": "L' B L' F' D2 L' F U' L' U' B' U F R F' (Ra-perm, AUF = U, block on RB)",
+    "index": 385,
+    "pll": "Ra"
+  },
+  {
+    "time": "5.65",
+    "ms": 5650,
+    "details": "F2 L2 U R2 D' B2 D R2 D' L2 D (Aa-perm, AUF = U', block on FR)",
+    "index": 386,
+    "pll": "Aa"
+  },
+  {
+    "time": "7.45",
+    "ms": 7450,
+    "details": "L2 R2 U B F' L2 R2 B' F U' L2 R2 U D2 (Z-perm, AUF = U, block on FR)",
+    "index": 387,
+    "pll": "Z"
+  },
+  {
+    "time": "6.35",
+    "ms": 6350,
+    "details": "F2 R2 U F' U F' L2 B D' B' L2 F2 U2 R2 F2 (Rb-perm, AUF = noAuf, block on FR)",
+    "index": 388,
+    "pll": "Rb"
+  },
+  {
+    "time": "6.55",
+    "ms": 6550,
+    "details": "R L2 D R' F2 R D' L' U2 R' L' (Jb-perm, AUF = U', block on LF)",
+    "index": 389,
+    "pll": "Jb"
+  },
+  {
+    "time": "5.35",
+    "ms": 5350,
+    "details": "F2 R2 U' F' U' F U F U R2 F U' F (Rb-perm, AUF = U, block on BL)",
+    "index": 390,
+    "pll": "Rb"
+  },
+  {
+    "time": "9.36",
+    "ms": 9360,
+    "details": "B2 D' R2 D2 F2 U F2 U' D2 R2 B2 U2 B2 D B2 (E-perm, AUF = U2, block on FR)",
+    "index": 391,
+    "pll": "E"
+  },
+  {
+    "time": "7.67",
+    "ms": 7670,
+    "details": "D' F2 R2 U R2 D' F2 U' D2 R2 U' R2 (Jb-perm, AUF = U2, block on LF)",
+    "index": 392,
+    "pll": "Jb"
+  },
+  {
+    "time": "7.70",
+    "ms": 7700,
+    "details": "F' U B' R2 D B R2 U R2 B' D2 F' D R2 B (Ra-perm, AUF = U, block on FR)",
+    "index": 393,
+    "pll": "Ra"
+  },
+  {
+    "time": "7.05",
+    "ms": 7050,
+    "details": "D' F2 U' R2 D2 B2 D L2 D' B2 L2 U2 L2 D' R2 (V-perm, AUF = U2, block on LF)",
+    "index": 394,
+    "pll": "V"
+  },
+  {
+    "time": "6.78",
+    "ms": 6780,
+    "details": "L2 R2 U' B F' L2 R2 B' F U L2 R2 D2 (Z-perm, AUF = U2, block on FR)",
+    "index": 395,
+    "pll": "Z"
+  },
+  {
+    "time": "7.06",
+    "ms": 7060,
+    "details": "R2 U2 B2 U R2 U2 R2 B2 U B2 U2 B2 R2 (Na-perm, AUF = U', block on BL)",
+    "index": 396,
+    "pll": "Na"
+  },
+  {
+    "time": "6.34",
+    "ms": 6340,
+    "details": "F2 D2 F2 L2 U B2 L2 U2 F2 R2 D' F2 L2 U2 L2 (Nb-perm, AUF = U', block on LF)",
+    "index": 397,
+    "pll": "Nb"
+  },
+  {
+    "time": "6.20",
+    "ms": 6200,
+    "details": "B L2 B' L2 B2 U' B' L2 F' L2 B' D L2 D' F (Y-perm, AUF = U2, block on LF)",
+    "index": 398,
+    "pll": "Y"
+  },
+  {
+    "time": "5.56",
+    "ms": 5560,
+    "details": "F2 R2 B D2 F D F' D2 B2 D' F' R2 B U F' (Gb-perm, AUF = U, block on RB)",
+    "index": 399,
+    "pll": "Gb"
+  },
+  {
+    "time": "5.88",
+    "ms": 5880,
+    "details": "D R2 B2 L F L' B2 L F' R2 L' U' D' (Aa-perm, AUF = U, block on BL)",
+    "index": 400,
+    "pll": "Aa"
+  },
+  {
+    "time": "5.07",
+    "ms": 5070,
+    "details": "R U2 R2 F' U' F R2 B U B2 R' B2 U' B' (V-perm, AUF = U2, block on FR)",
+    "index": 401,
+    "pll": "V"
+  },
+  {
+    "time": "11.22",
+    "ms": 11220,
+    "details": "R D R' B2 L U' L' B2 U D2 L2 D' L2 D2 (Ja-perm, AUF = U', block on RB)",
+    "index": 402,
+    "pll": "Ja"
+  },
+  {
+    "time": "4.91",
+    "ms": 4910,
+    "details": "R2 U F' B2 D F' L2 F D' F B2 R2 U' R2 (T-perm, AUF = U', block on RB)",
+    "index": 403,
+    "pll": "T"
+  },
+  {
+    "time": "8.35",
+    "ms": 8350,
+    "details": "F' U' L2 D2 R' B' R D2 L' F L' F' U F (Ra-perm, AUF = noAuf, block on BL)",
+    "index": 404,
+    "pll": "Ra"
+  },
+  {
+    "time": "6.64",
+    "ms": 6640,
+    "details": "R D' B2 D R' U2 D L D2 R' B2 R U D L2 (Na-perm, AUF = U', block on BL)",
+    "index": 405,
+    "pll": "Na"
+  },
+  {
+    "time": "6.88",
+    "ms": 6880,
+    "details": "B2 D F B' L2 F' U' F D2 F' U B R2 D B2 (Ra-perm, AUF = U, block on BL)",
+    "index": 406,
+    "pll": "Ra"
+  },
+  {
+    "time": "6.30",
+    "ms": 6300,
+    "details": "R D2 R L2 D' R2 L2 U L B2 R' F2 R L' (Z-perm, AUF = U2, block on BL)",
+    "index": 407,
+    "pll": "Z"
+  },
+  {
+    "time": "10.77",
+    "ms": 10770,
+    "details": "R2 B2 D' F D' F L2 B' U B D F2 D B2 (Ra-perm, AUF = U2, block on BL)",
+    "index": 408,
+    "pll": "Ra"
+  },
+  {
+    "time": "4.53",
+    "ms": 4530,
+    "details": "L2 D' R2 F2 L D L' F2 R U' R U D L2 (T-perm, AUF = noAuf, block on BL)",
+    "index": 409,
+    "pll": "T"
+  },
+  {
+    "time": "5.52",
+    "ms": 5520,
+    "details": "F B' R2 F B R2 F2 U L' R' U2 L R (H-perm, AUF = U', block on RB)",
+    "index": 410,
+    "pll": "H"
+  },
+  {
+    "time": "4.08",
+    "ms": 4080,
+    "details": "B2 U' D' F' U F' L2 B D' B' L2 F2 D B2 (T-perm, AUF = noAuf, block on RB)",
+    "index": 411,
+    "pll": "T"
+  }
+]
